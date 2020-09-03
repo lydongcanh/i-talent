@@ -1,0 +1,5954 @@
+﻿{
+    "Bài 1": [
+        {
+            "Index": "1",
+            "Word": "あに",
+            "Accent": "あ￢に",
+            "Vietnamese": "anh trai (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "2",
+            "Word": "あね",
+            "Accent": "あね￣",
+            "Vietnamese": "chị gái (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "3",
+            "Word": "アメリカ",
+            "Accent": "アメリカ￣",
+            "Vietnamese": "Mỹ",
+            "Unit": "1"
+        },
+        {
+            "Index": "4",
+            "Word": "いしかわ／いしかわさん",
+            "Accent": "いしかわ￣／\r\nいしかわさん￣",
+            "Vietnamese": "Ishikawa (tên người)",
+            "Unit": "1"
+        },
+        {
+            "Index": "5",
+            "Word": "イタリア",
+            "Accent": "イタリア￣",
+            "Vietnamese": "Ý",
+            "Unit": "1"
+        },
+        {
+            "Index": "6",
+            "Word": "イタリアご",
+            "Accent": "イタリアご￣",
+            "Vietnamese": "tiếng Ý",
+            "Unit": "1"
+        },
+        {
+            "Index": "7",
+            "Word": "いちろう／いちろうさん",
+            "Accent": "いちろう￣／\r\nいちろうさん￣",
+            "Vietnamese": "Ichiro (tên người)",
+            "Unit": "1"
+        },
+        {
+            "Index": "8",
+            "Word": "いもうと",
+            "Accent": "いもうと￢",
+            "Vietnamese": "em gái (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "9",
+            "Word": "いもうとさん",
+            "Accent": "いもうとさん￣",
+            "Vietnamese": "em gái (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "10",
+            "Word": "うち",
+            "Accent": "うち￣",
+            "Vietnamese": "nhà",
+            "Unit": "1"
+        },
+        {
+            "Index": "11",
+            "Word": "えいご",
+            "Accent": "えいご￣",
+            "Vietnamese": "tiếng Anh",
+            "Unit": "1"
+        },
+        {
+            "Index": "12",
+            "Word": "おかあさん",
+            "Accent": "おか￢あさん",
+            "Vietnamese": "mẹ (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "13",
+            "Word": "おくさん",
+            "Accent": "お￢くさん",
+            "Vietnamese": "vợ (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "14",
+            "Word": "おじ",
+            "Accent": "おじ￣",
+            "Vietnamese": "bác trai, chú, cậu (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "15",
+            "Word": "おじいさん",
+            "Accent": "おじ￢いさん",
+            "Vietnamese": "ông (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "16",
+            "Word": "おじさん",
+            "Accent": "おじさん￣",
+            "Vietnamese": "bác trai, chú, cậu (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "17",
+            "Word": "おっと",
+            "Accent": "おっと￣",
+            "Vietnamese": "chồng (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "18",
+            "Word": "おとうさん",
+            "Accent": "おと￢うさん",
+            "Vietnamese": "bố (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "19",
+            "Word": "おとうと",
+            "Accent": "おとうと￢",
+            "Vietnamese": "em trai (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "20",
+            "Word": "おとうとさん",
+            "Accent": "おとうとさん￣",
+            "Vietnamese": "em trai (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "21",
+            "Word": "おにいさん",
+            "Accent": "おに￢いさん",
+            "Vietnamese": "anh trai (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "22",
+            "Word": "おねえさん",
+            "Accent": "おね￢えさん",
+            "Vietnamese": "chị gái (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "23",
+            "Word": "おば",
+            "Accent": "おば￣",
+            "Vietnamese": "bác gái, cô, dì, mợ (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "24",
+            "Word": "おばあさん",
+            "Accent": "おば￢あさん",
+            "Vietnamese": "bà (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "25",
+            "Word": "おばさん",
+            "Accent": "おばさん￣",
+            "Vietnamese": "bác gái, cô, dì, mợ (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "26",
+            "Word": "オペラ",
+            "Accent": "オ￢ペラ",
+            "Vietnamese": "opera",
+            "Unit": "1"
+        },
+        {
+            "Index": "27",
+            "Word": "かいしゃ",
+            "Accent": "かいしゃ￣",
+            "Vietnamese": "công ty",
+            "Unit": "1"
+        },
+        {
+            "Index": "28",
+            "Word": "がくせい",
+            "Accent": "がくせい￣",
+            "Vietnamese": "học sinh, sinh viên",
+            "Unit": "1"
+        },
+        {
+            "Index": "29",
+            "Word": "かぞく",
+            "Accent": "か￢ぞく",
+            "Vietnamese": "gia đình",
+            "Unit": "1"
+        },
+        {
+            "Index": "30",
+            "Word": "かんこく",
+            "Kanji": "韓国",
+            "Accent": "か￢んこく",
+            "Vietnamese": "Hàn Quốc",
+            "Unit": "1"
+        },
+        {
+            "Index": "31",
+            "Word": "かんこくご",
+            "Accent": "かんこくご￣",
+            "Vietnamese": "tiếng Hàn Quốc",
+            "Unit": "1"
+        },
+        {
+            "Index": "32",
+            "Word": "かんこくじん",
+            "Accent": "かんこく￢じん",
+            "Vietnamese": "người Hàn Quốc",
+            "Unit": "1"
+        },
+        {
+            "Index": "33",
+            "Word": "きょうだい",
+            "Accent": "きょ￢うだい",
+            "Vietnamese": "anh chị em",
+            "Unit": "1"
+        },
+        {
+            "Index": "34",
+            "Word": "くるま",
+            "Accent": "くるま￣",
+            "Vietnamese": "ô tô",
+            "Unit": "1"
+        },
+        {
+            "Index": "35",
+            "Word": "ご／～ご",
+            "Accent": "～ご￣",
+            "Vietnamese": "tiếng ~ (ngôn ngữ)",
+            "Unit": "1"
+        },
+        {
+            "Index": "36",
+            "Word": "ごしゅじん",
+            "Accent": "ごしゅ￢じん",
+            "Vietnamese": "chồng (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "37",
+            "Word": "さん／～さん",
+            "Accent": "―――",
+            "Vietnamese": "bạn/anh/chị/ông/bà ~",
+            "Unit": "1"
+        },
+        {
+            "Index": "38",
+            "Word": "しごと",
+            "Accent": "しごと￣",
+            "Vietnamese": "công việc",
+            "Unit": "1"
+        },
+        {
+            "Index": "39",
+            "Word": "します ",
+            "Accent": "しま￢す",
+            "Vietnamese": "làm",
+            "Unit": "1"
+        },
+        {
+            "Index": "40",
+            "Word": "しゅふ",
+            "Accent": "しゅ￢ふ",
+            "Vietnamese": "nội trợ",
+            "Unit": "1"
+        },
+        {
+            "Index": "41",
+            "Word": "しょうかい",
+            "Accent": "しょうかい￣",
+            "Vietnamese": "giới thiệu",
+            "Unit": "1"
+        },
+        {
+            "Index": "42",
+            "Word": "じん／～じん",
+            "Kanji": "～じん",
+            "Accent": "～￢じん",
+            "Vietnamese": "người nước ~",
+            "Unit": "1"
+        },
+        {
+            "Index": "43",
+            "Word": "しんせき",
+            "Accent": "しんせき￣",
+            "Vietnamese": "họ hàng",
+            "Unit": "1"
+        },
+        {
+            "Index": "44",
+            "Word": "すこし",
+            "Accent": "すこ￢し",
+            "Vietnamese": "một chút",
+            "Unit": "1"
+        },
+        {
+            "Index": "45",
+            "Word": "すずき／すずきさん",
+            "Accent": "すずき￣／すずきさん￣",
+            "Vietnamese": "Suzuki (tên người)",
+            "Unit": "1"
+        },
+        {
+            "Index": "46",
+            "Word": "すみます ",
+            "Accent": "すみま￢す",
+            "Vietnamese": "sống",
+            "Unit": "1"
+        },
+        {
+            "Index": "47",
+            "Word": "そふ",
+            "Accent": "そ￢ふ",
+            "Vietnamese": "ông (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "48",
+            "Word": "そぼ",
+            "Accent": "そ￢ぼ",
+            "Vietnamese": "bà (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "49",
+            "Word": "ちち",
+            "Accent": "ち￢ち、ちち￢",
+            "Vietnamese": "bố (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "50",
+            "Word": "ちゅうごく",
+            "Kanji": "中国",
+            "Accent": "ちゅ￢うごく",
+            "Vietnamese": "Trung Quốc",
+            "Unit": "1"
+        },
+        {
+            "Index": "51",
+            "Word": "ちゅうごくご",
+            "Accent": "ちゅうごくご￣",
+            "Vietnamese": "tiếng Trung Quốc",
+            "Unit": "1"
+        },
+        {
+            "Index": "52",
+            "Word": "つま",
+            "Accent": "つ￢ま",
+            "Vietnamese": "vợ (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "53",
+            "Word": "できます",
+            "Accent": "てつだいま￢す",
+            "Vietnamese": "có thể",
+            "Unit": "1"
+        },
+        {
+            "Index": "54",
+            "Word": "とうきょう",
+            "Kanji": "東京",
+            "Accent": "とうきょう￣",
+            "Vietnamese": "Tokyo",
+            "Unit": "1"
+        },
+        {
+            "Index": "55",
+            "Word": "なかむら／なかむらさん",
+            "Accent": "なかむら￣／\r\nなかむらさん￣",
+            "Vietnamese": "Nakamura (tên người)",
+            "Unit": "1"
+        },
+        {
+            "Index": "56",
+            "Word": "にほん／にっぽん",
+            "Kanji": "日本",
+            "Accent": "にほ￢ん／にっぽ￢ん",
+            "Vietnamese": "Nhật Bản",
+            "Unit": "1"
+        },
+        {
+            "Index": "57",
+            "Word": "にほんご",
+            "Kanji": "日本語",
+            "Accent": "にほんご￣",
+            "Vietnamese": "tiếng Nhật",
+            "Unit": "1"
+        },
+        {
+            "Index": "58",
+            "Word": "にほんじん",
+            "Kanji": "日本人",
+            "Accent": "にほんじ￢ん",
+            "Vietnamese": "người Nhật",
+            "Unit": "1"
+        },
+        {
+            "Index": "59",
+            "Word": "にん／～にん",
+            "Kanji": "人",
+            "Accent": "―――",
+            "Vietnamese": "~ người",
+            "Unit": "1"
+        },
+        {
+            "Index": "60",
+            "Word": "はたらきます ",
+            "Accent": "はたらきま￢す",
+            "Vietnamese": "làm việc",
+            "Unit": "1"
+        },
+        {
+            "Index": "61",
+            "Word": "はなします",
+            "Kanji": "話します",
+            "Accent": "はなしま￢す",
+            "Vietnamese": "nói chuyện",
+            "Unit": "1"
+        },
+        {
+            "Index": "62",
+            "Word": "はは",
+            "Accent": "は￢は",
+            "Vietnamese": "mẹ (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "63",
+            "Word": "びょういん",
+            "Accent": "びょういん￣",
+            "Vietnamese": "bệnh viện",
+            "Unit": "1"
+        },
+        {
+            "Index": "64",
+            "Word": "ふうん",
+            "Accent": "―――",
+            "Vietnamese": "ừm…",
+            "Unit": "1"
+        },
+        {
+            "Index": "65",
+            "Word": "ふたり",
+            "Kanji": "二人",
+            "Accent": "ふたり￢",
+            "Vietnamese": "hai người",
+            "Unit": "1"
+        },
+        {
+            "Index": "66",
+            "Word": "ブラジル",
+            "Accent": "ブラジル￣",
+            "Vietnamese": "Brazil",
+            "Unit": "1"
+        },
+        {
+            "Index": "67",
+            "Word": "へえ",
+            "Accent": "―――",
+            "Vietnamese": "Uây ~!",
+            "Unit": "1"
+        },
+        {
+            "Index": "68",
+            "Word": "べんきょう",
+            "Accent": "べんきょう￣",
+            "Vietnamese": "học",
+            "Unit": "1"
+        },
+        {
+            "Index": "69",
+            "Word": "ホテル",
+            "Accent": "ホ￢テル",
+            "Vietnamese": "khách sạn",
+            "Unit": "1"
+        },
+        {
+            "Index": "70",
+            "Word": "ポルトガル",
+            "Accent": "ポルトガル￣",
+            "Vietnamese": "Bồ Đào Nha",
+            "Unit": "1"
+        },
+        {
+            "Index": "71",
+            "Word": "ポルトガルご",
+            "Accent": "ポルトガルご￣",
+            "Vietnamese": "tiếng Bồ Đào Nha",
+            "Unit": "1"
+        },
+        {
+            "Index": "72",
+            "Word": "まお／まおさん",
+            "Accent": "ま￢お／ま￢おさん",
+            "Vietnamese": "Mao (tên người)",
+            "Unit": "1"
+        },
+        {
+            "Index": "73",
+            "Word": "まり／まりさん",
+            "Accent": "ま￢り／ま￢りさん",
+            "Vietnamese": "Mari (tên người)",
+            "Unit": "1"
+        },
+        {
+            "Index": "74",
+            "Word": "むすこ",
+            "Accent": "むすこ￣",
+            "Vietnamese": "con trai (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "75",
+            "Word": "むすこさん",
+            "Accent": "むすこさん￣",
+            "Vietnamese": "con trai (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "76",
+            "Word": "むすめ",
+            "Accent": "むすめ￢",
+            "Vietnamese": "con gái (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "77",
+            "Word": "むすめさん",
+            "Accent": "むすめさん￣",
+            "Vietnamese": "con gái (của người khác)",
+            "Unit": "1"
+        },
+        {
+            "Index": "78",
+            "Word": "りょうしん",
+            "Accent": "りょ￢うしん",
+            "Vietnamese": "bố mẹ (của mình)",
+            "Unit": "1"
+        },
+        {
+            "Index": "79",
+            "Word": "わあ",
+            "Accent": "―――",
+            "Vietnamese": "Oa ~!",
+            "Unit": "1"
+        },
+        {
+            "Index": "80",
+            "Word": "わたし",
+            "Accent": "わたし￣",
+            "Vietnamese": "tôi",
+            "Unit": "1"
+        },
+        {
+            "Index": "81",
+            "Word": "わたしたち",
+            "Accent": "わたし￢たち",
+            "Vietnamese": "chúng ta, chúng tôi",
+            "Unit": "1"
+        }
+    ],
+    "Bài 2": [
+        {
+            "Index": "1",
+            "Word": "アクセサリー",
+            "Accent": "ア￢クセサリー、\r\nアクセ￢サリー",
+            "Vietnamese": "trang sức",
+            "Unit": "2"
+        },
+        {
+            "Index": "2",
+            "Word": "あつめます",
+            "Accent": "あつめま￢す",
+            "Vietnamese": "sưu tầm, tập hợp, thu thập",
+            "Unit": "2"
+        },
+        {
+            "Index": "3",
+            "Word": "あみもの",
+            "Accent": "あみ￢もの",
+            "Vietnamese": "đồ đan",
+            "Unit": "2"
+        },
+        {
+            "Index": "4",
+            "Word": "いご",
+            "Accent": "い￢ご",
+            "Vietnamese": "cờ vây",
+            "Unit": "2"
+        },
+        {
+            "Index": "5",
+            "Word": "え",
+            "Accent": "え￢",
+            "Vietnamese": "tranh",
+            "Unit": "2"
+        },
+        {
+            "Index": "6",
+            "Word": "えいが",
+            "Accent": "えいが￣、え￢いが",
+            "Vietnamese": "phim ảnh",
+            "Unit": "2"
+        },
+        {
+            "Index": "7",
+            "Word": "えんげき",
+            "Accent": "えんげき￣",
+            "Vietnamese": "diễn kịch/ vở kịch",
+            "Unit": "2"
+        },
+        {
+            "Index": "8",
+            "Word": "おかし（かし）",
+            "Accent": "おか￢し",
+            "Vietnamese": "bánh kẹo",
+            "Unit": "2"
+        },
+        {
+            "Index": "9",
+            "Word": "おんがく",
+            "Accent": "お￢んがく",
+            "Vietnamese": "âm nhạc",
+            "Unit": "2"
+        },
+        {
+            "Index": "10",
+            "Word": "ガーデニング",
+            "Accent": "ガーデニング￣",
+            "Vietnamese": "làm vườn",
+            "Unit": "2"
+        },
+        {
+            "Index": "11",
+            "Word": "がいこくご",
+            "Accent": "がいこくご￣",
+            "Vietnamese": "tiếng nước ngoài",
+            "Unit": "2"
+        },
+        {
+            "Index": "12",
+            "Word": "かきます ",
+            "Accent": "かきま￢す",
+            "Vietnamese": "vẽ",
+            "Unit": "2"
+        },
+        {
+            "Index": "13",
+            "Word": "かっこいい",
+            "Accent": "かっこい￢い",
+            "Vietnamese": "đẹp trai, phong cách, ngầu",
+            "Unit": "2"
+        },
+        {
+            "Index": "14",
+            "Word": "カラオケ",
+            "Accent": "カラオケ￣",
+            "Vietnamese": "karaoke",
+            "Unit": "2"
+        },
+        {
+            "Index": "15",
+            "Word": "カレー",
+            "Accent": "カレー￣",
+            "Vietnamese": "cà-ri",
+            "Unit": "2"
+        },
+        {
+            "Index": "16",
+            "Word": "かわいい",
+            "Accent": "かわい￢い",
+            "Vietnamese": "dễ thương",
+            "Unit": "2"
+        },
+        {
+            "Index": "17",
+            "Word": "ききます",
+            "Kanji": "聞きます",
+            "Accent": "ききま￢す",
+            "Vietnamese": "nghe",
+            "Unit": "2"
+        },
+        {
+            "Index": "18",
+            "Word": "きって",
+            "Accent": "きって￣",
+            "Vietnamese": "tem",
+            "Unit": "2"
+        },
+        {
+            "Index": "19",
+            "Word": "クラシック",
+            "Accent": "クラシ￢ック、\r\nクラ￢シック",
+            "Vietnamese": "nhạc cổ điển",
+            "Unit": "2"
+        },
+        {
+            "Index": "20",
+            "Word": "コイン",
+            "Accent": "コ￢イン",
+            "Vietnamese": "tiền xu",
+            "Unit": "2"
+        },
+        {
+            "Index": "21",
+            "Word": "こと",
+            "Accent": "こと￢",
+            "Vietnamese": "việc",
+            "Unit": "2"
+        },
+        {
+            "Index": "22",
+            "Word": "こども",
+            "Accent": "こども￣",
+            "Vietnamese": "trẻ con",
+            "Unit": "2"
+        },
+        {
+            "Index": "23",
+            "Word": "サイクリング",
+            "Accent": "サ￢イクリング",
+            "Vietnamese": "đi xe đạp thể thao, giải trí",
+            "Unit": "2"
+        },
+        {
+            "Index": "24",
+            "Word": "サッカー",
+            "Accent": "サ￢ッカー",
+            "Vietnamese": "bóng đá",
+            "Unit": "2"
+        },
+        {
+            "Index": "25",
+            "Word": "さとう／さとうさん",
+            "Accent": "さ￢とう／さ￢とうさん",
+            "Vietnamese": "Sato (tên người)",
+            "Unit": "2"
+        },
+        {
+            "Index": "26",
+            "Word": "さんぽ",
+            "Accent": "さんぽ￣",
+            "Vietnamese": "tản bộ, đi dạo",
+            "Unit": "2"
+        },
+        {
+            "Index": "27",
+            "Word": "しあい",
+            "Accent": "しあい￣",
+            "Vietnamese": "trận đấu",
+            "Unit": "2"
+        },
+        {
+            "Index": "28",
+            "Word": "じこしょうかい",
+            "Accent": "じこしょ￢うかい",
+            "Vietnamese": "giới thiệu bản thân",
+            "Unit": "2"
+        },
+        {
+            "Index": "29",
+            "Word": "しゃしん",
+            "Accent": "しゃしん￣",
+            "Vietnamese": "ảnh",
+            "Unit": "2"
+        },
+        {
+            "Index": "30",
+            "Word": "しゅみ",
+            "Accent": "しゅ￢み",
+            "Vietnamese": "sở thích",
+            "Unit": "2"
+        },
+        {
+            "Index": "31",
+            "Word": "しょうぎ",
+            "Accent": "しょうぎ￣",
+            "Vietnamese": "cờ tướng Nhật Bản",
+            "Unit": "2"
+        },
+        {
+            "Index": "32",
+            "Word": "じょうば",
+            "Accent": "じょうば￣",
+            "Vietnamese": "cưỡi ngựa",
+            "Unit": "2"
+        },
+        {
+            "Index": "33",
+            "Word": "すいえい",
+            "Accent": "すいえい￣",
+            "Vietnamese": "bơi lội",
+            "Unit": "2"
+        },
+        {
+            "Index": "34",
+            "Word": "すき（な）",
+            "Accent": "すき￢",
+            "Vietnamese": "yêu, thích",
+            "Unit": "2"
+        },
+        {
+            "Index": "35",
+            "Word": "そう",
+            "Accent": "そ￢う",
+            "Vietnamese": "vậy, thế",
+            "Unit": "2"
+        },
+        {
+            "Index": "36",
+            "Word": "たこあげ",
+            "Accent": "たこ￢あげ",
+            "Vietnamese": "thả diều",
+            "Unit": "2"
+        },
+        {
+            "Index": "37",
+            "Word": "たなか／たなかさん",
+            "Kanji": "田中／田中さん",
+            "Accent": "たなか￣／たなかさん￣",
+            "Vietnamese": "Tanaka (tên người)",
+            "Unit": "2"
+        },
+        {
+            "Index": "38",
+            "Word": "チーム",
+            "Accent": "チ￢ーム",
+            "Vietnamese": "đội, nhóm",
+            "Unit": "2"
+        },
+        {
+            "Index": "39",
+            "Word": "チェス",
+            "Accent": "チェ￢ス",
+            "Vietnamese": "cờ vua",
+            "Unit": "2"
+        },
+        {
+            "Index": "40",
+            "Word": "チキンカレー",
+            "Accent": "チキンカ￢レー",
+            "Vietnamese": "cà-ri gà",
+            "Unit": "2"
+        },
+        {
+            "Index": "41",
+            "Word": "ちょう～",
+            "Kanji": "超～",
+            "Accent": "ちょ￢う～",
+            "Vietnamese": "rất, vô cùng ~",
+            "Unit": "2"
+        },
+        {
+            "Index": "42",
+            "Word": "つくります ",
+            "Accent": "つくりま￢す",
+            "Vietnamese": "làm, chế tạo, chế biến",
+            "Unit": "2"
+        },
+        {
+            "Index": "43",
+            "Word": "とき",
+            "Kanji": "時",
+            "Accent": "とき￢",
+            "Vietnamese": "khi",
+            "Unit": "2"
+        },
+        {
+            "Index": "44",
+            "Word": "とくい",
+            "Accent": "とく￢い",
+            "Vietnamese": "giỏi, sở trường",
+            "Unit": "2"
+        },
+        {
+            "Index": "45",
+            "Word": "どくしょ",
+            "Kanji": "読書",
+            "Accent": "ど￢くしょ",
+            "Vietnamese": "đọc sách",
+            "Unit": "2"
+        },
+        {
+            "Index": "46",
+            "Word": "とくに",
+            "Accent": "と￢くに",
+            "Vietnamese": "đặc biệt là",
+            "Unit": "2"
+        },
+        {
+            "Index": "47",
+            "Word": "ともだち",
+            "Accent": "ともだち￣",
+            "Vietnamese": "bạn bè",
+            "Unit": "2"
+        },
+        {
+            "Index": "48",
+            "Word": "ドライブ",
+            "Accent": "ドラ￢イブ",
+            "Vietnamese": "lái xe hơi đi chơi",
+            "Unit": "2"
+        },
+        {
+            "Index": "49",
+            "Word": "とります",
+            "Accent": "とりま￢す",
+            "Vietnamese": "chụp (ảnh)",
+            "Unit": "2"
+        },
+        {
+            "Index": "50",
+            "Word": "どんな",
+            "Accent": "ど￢んな",
+            "Vietnamese": "~ như thế nào",
+            "Unit": "2"
+        },
+        {
+            "Index": "51",
+            "Word": "なに／なん",
+            "Accent": "な￢に／な￢ん",
+            "Vietnamese": "cái gì",
+            "Unit": "2"
+        },
+        {
+            "Index": "52",
+            "Word": "なります",
+            "Accent": "なりま￢す",
+            "Vietnamese": "trở thành",
+            "Unit": "2"
+        },
+        {
+            "Index": "53",
+            "Word": "にんぎょう",
+            "Accent": "にんぎょう￣",
+            "Vietnamese": "búp bê",
+            "Unit": "2"
+        },
+        {
+            "Index": "54",
+            "Word": "のだ／のださん",
+            "Accent": "のだ￣／のださん￣",
+            "Vietnamese": "Noda (tên người)",
+            "Unit": "2"
+        },
+        {
+            "Index": "55",
+            "Word": "はじめまして",
+            "Accent": "はじめま￢す",
+            "Vietnamese": "bắt đầu",
+            "Unit": "2"
+        },
+        {
+            "Index": "56",
+            "Word": "バッハ",
+            "Accent": "バ￢ッハ",
+            "Vietnamese": "J.S.Bach (nhà soạn nhạc)",
+            "Unit": "2"
+        },
+        {
+            "Index": "57",
+            "Word": "バルセロナ",
+            "Accent": "バルセ￢ロナ",
+            "Vietnamese": "Barcelona",
+            "Unit": "2"
+        },
+        {
+            "Index": "58",
+            "Word": "ハロー",
+            "Accent": "ハ￢ロー",
+            "Vietnamese": "hê-lô",
+            "Unit": "2"
+        },
+        {
+            "Index": "59",
+            "Word": "ひま（な）",
+            "Accent": "ひま￣",
+            "Vietnamese": "rảnh rỗi",
+            "Unit": "2"
+        },
+        {
+            "Index": "60",
+            "Word": "フルーツケーキ",
+            "Accent": "フルーツケ￢ーキ",
+            "Vietnamese": "bánh hoa quả",
+            "Unit": "2"
+        },
+        {
+            "Index": "61",
+            "Word": "みます",
+            "Kanji": "見ます",
+            "Accent": "みま￢す",
+            "Vietnamese": "nhìn, xem",
+            "Unit": "2"
+        },
+        {
+            "Index": "62",
+            "Word": "よく",
+            "Accent": "よ￢く",
+            "Vietnamese": "thường xuyên, hay",
+            "Unit": "2"
+        },
+        {
+            "Index": "63",
+            "Word": "りょうり",
+            "Kanji": "料理",
+            "Accent": "りょ￢うり",
+            "Vietnamese": "món ăn",
+            "Unit": "2"
+        },
+        {
+            "Index": "64",
+            "Word": "りょこう",
+            "Accent": "りょこう￣",
+            "Vietnamese": "du lịch",
+            "Unit": "2"
+        },
+        {
+            "Index": "65",
+            "Word": "わかい",
+            "Accent": "わか￢い",
+            "Vietnamese": "trẻ trung",
+            "Unit": "2"
+        }
+    ],
+    "Bài 3": [
+        {
+            "Index": "1",
+            "Word": "あき",
+            "Accent": "あ￢き",
+            "Vietnamese": "mùa thu",
+            "Unit": "3"
+        },
+        {
+            "Index": "2",
+            "Word": "あじさい",
+            "Accent": "あじさい￣",
+            "Vietnamese": "cẩm tú cầu",
+            "Unit": "3"
+        },
+        {
+            "Index": "3",
+            "Word": "あたたかい",
+            "Accent": "あたたか￢い",
+            "Vietnamese": "ấm áp",
+            "Unit": "3"
+        },
+        {
+            "Index": "4",
+            "Word": "あつい",
+            "Accent": "あつ￢い",
+            "Vietnamese": "nóng",
+            "Unit": "3"
+        },
+        {
+            "Index": "5",
+            "Word": "あめ",
+            "Accent": "あ￢め",
+            "Vietnamese": "mưa",
+            "Unit": "3"
+        },
+        {
+            "Index": "6",
+            "Word": "あります ",
+            "Accent": "ありま￢す",
+            "Vietnamese": "có",
+            "Unit": "3"
+        },
+        {
+            "Index": "7",
+            "Word": "いちばん",
+            "Accent": "いちばん￣",
+            "Vietnamese": "nhất",
+            "Unit": "3"
+        },
+        {
+            "Index": "8",
+            "Word": "いつ",
+            "Accent": "い￢つ",
+            "Vietnamese": "khi nào",
+            "Unit": "3"
+        },
+        {
+            "Index": "9",
+            "Word": "いつごろ",
+            "Accent": "いつごろ￣",
+            "Vietnamese": "khoảng khi nào",
+            "Unit": "3"
+        },
+        {
+            "Index": "10",
+            "Word": "いねかり",
+            "Accent": "いね￢かり",
+            "Vietnamese": "gặt lúa",
+            "Unit": "3"
+        },
+        {
+            "Index": "11",
+            "Word": "いま",
+            "Accent": "い￢ま",
+            "Vietnamese": "bây giờ",
+            "Unit": "3"
+        },
+        {
+            "Index": "12",
+            "Word": "うき",
+            "Accent": "う￢き",
+            "Vietnamese": "mùa mưa",
+            "Unit": "3"
+        },
+        {
+            "Index": "13",
+            "Word": "うぐいす",
+            "Accent": "うぐ￢いす",
+            "Vietnamese": "chim oanh",
+            "Unit": "3"
+        },
+        {
+            "Index": "14",
+            "Word": "おいしい",
+            "Accent": "おいしい￣、おいし￢い",
+            "Vietnamese": "ngon",
+            "Unit": "3"
+        },
+        {
+            "Index": "15",
+            "Word": "おおさか",
+            "Kanji": "大阪",
+            "Accent": "おおさか￣",
+            "Vietnamese": "Osaka",
+            "Unit": "3"
+        },
+        {
+            "Index": "16",
+            "Word": "おがわ／おがわさん",
+            "Accent": "おがわ     ／おがわさん\r\n￣",
+            "Vietnamese": "Ogawa (tên người)",
+            "Unit": "3"
+        },
+        {
+            "Index": "17",
+            "Word": "がつ／～がつ",
+            "Kanji": "～月",
+            "Accent": "―――",
+            "Vietnamese": "tháng ～",
+            "Unit": "3"
+        },
+        {
+            "Index": "18",
+            "Word": "かんき",
+            "Accent": "か￢んき",
+            "Vietnamese": "mùa khô",
+            "Unit": "3"
+        },
+        {
+            "Index": "19",
+            "Word": "きおん",
+            "Accent": "きおん￣",
+            "Vietnamese": "nhiệt độ",
+            "Unit": "3"
+        },
+        {
+            "Index": "20",
+            "Word": "きせつ",
+            "Accent": "き￢せつ",
+            "Vietnamese": "mùa",
+            "Unit": "3"
+        },
+        {
+            "Index": "21",
+            "Word": "きれい",
+            "Accent": "き￢れい",
+            "Vietnamese": "đẹp",
+            "Unit": "3"
+        },
+        {
+            "Index": "22",
+            "Word": "くだもの",
+            "Accent": "くだ￢もの",
+            "Vietnamese": "hoa quả",
+            "Unit": "3"
+        },
+        {
+            "Index": "23",
+            "Word": "くに",
+            "Accent": "くに￣、～くに￢",
+            "Vietnamese": "đất nước, quốc gia",
+            "Unit": "3"
+        },
+        {
+            "Index": "24",
+            "Word": "コート",
+            "Accent": "コ￢ート",
+            "Vietnamese": "áo khoác dài / áo măng tô",
+            "Unit": "3"
+        },
+        {
+            "Index": "25",
+            "Word": "こおろぎ",
+            "Accent": "こ￢おろぎ",
+            "Vietnamese": "dế mèn",
+            "Unit": "3"
+        },
+        {
+            "Index": "26",
+            "Word": "こたつ",
+            "Accent": "こたつ￣",
+            "Vietnamese": "bàn sưởi kiểu Nhật",
+            "Unit": "3"
+        },
+        {
+            "Index": "27",
+            "Word": "こどもたち",
+            "Accent": "こども￢たち",
+            "Vietnamese": "bọn trẻ",
+            "Unit": "3"
+        },
+        {
+            "Index": "28",
+            "Word": "ごろ／～ごろ",
+            "Accent": "～ご￢ろ",
+            "Vietnamese": "khoảng ~",
+            "Unit": "3"
+        },
+        {
+            "Index": "29",
+            "Word": "さくら",
+            "Accent": "さくら￣",
+            "Vietnamese": "hoa anh đào",
+            "Unit": "3"
+        },
+        {
+            "Index": "30",
+            "Word": "さむい",
+            "Accent": "さむ￢い",
+            "Vietnamese": "lạnh",
+            "Unit": "3"
+        },
+        {
+            "Index": "31",
+            "Word": "じゃあ／じゃ",
+            "Accent": "じゃ￢あ／じゃ￣",
+            "Vietnamese": "Vậy nhé!",
+            "Unit": "3"
+        },
+        {
+            "Index": "32",
+            "Word": "じょやのかね",
+            "Accent": "じょ￢やのかね",
+            "Vietnamese": "khai chuông giao thừa",
+            "Unit": "3"
+        },
+        {
+            "Index": "33",
+            "Word": "すいかわり",
+            "Accent": "すいか￢わり",
+            "Vietnamese": "bịt mắt đập dưa hấu",
+            "Unit": "3"
+        },
+        {
+            "Index": "34",
+            "Word": "スキー",
+            "Accent": "スキ￢ー",
+            "Vietnamese": "trượt tuyết",
+            "Unit": "3"
+        },
+        {
+            "Index": "35",
+            "Word": "すずしい",
+            "Accent": "すずし￢い",
+            "Vietnamese": "mát mẻ",
+            "Unit": "3"
+        },
+        {
+            "Index": "36",
+            "Word": "せみ",
+            "Accent": "せみ￣",
+            "Vietnamese": "ve sầu",
+            "Unit": "3"
+        },
+        {
+            "Index": "37",
+            "Word": "だいたい",
+            "Accent": "だいたい￣",
+            "Vietnamese": "hầu hết, đại khái",
+            "Unit": "3"
+        },
+        {
+            "Index": "38",
+            "Word": "たうえ",
+            "Accent": "たうえ￢",
+            "Vietnamese": "cấy lúa",
+            "Unit": "3"
+        },
+        {
+            "Index": "39",
+            "Word": "たべもの",
+            "Kanji": "食べもの",
+            "Accent": "たべ￢もの",
+            "Vietnamese": "đồ ăn",
+            "Unit": "3"
+        },
+        {
+            "Index": "40",
+            "Word": "だめ",
+            "Accent": "だめ￢",
+            "Vietnamese": "không được",
+            "Unit": "3"
+        },
+        {
+            "Index": "41",
+            "Word": "たんぼ",
+            "Accent": "たんぼ￣",
+            "Vietnamese": "ruộng lúa nước",
+            "Unit": "3"
+        },
+        {
+            "Index": "42",
+            "Word": "つきみ",
+            "Kanji": "月見",
+            "Accent": "つきみ￣",
+            "Vietnamese": "ngắm trăng rằm tháng 8 âm lịch",
+            "Unit": "3"
+        },
+        {
+            "Index": "43",
+            "Word": "つゆ",
+            "Accent": "つゆ￣",
+            "Vietnamese": "mùa mưa",
+            "Unit": "3"
+        },
+        {
+            "Index": "44",
+            "Word": "てんき",
+            "Accent": "て￢んき",
+            "Vietnamese": "thời tiết",
+            "Unit": "3"
+        },
+        {
+            "Index": "45",
+            "Word": "ど／～ど",
+            "Accent": "～￢ど",
+            "Vietnamese": "~ độ (nhiệt độ)",
+            "Unit": "3"
+        },
+        {
+            "Index": "46",
+            "Word": "どうして",
+            "Accent": "ど￢うして",
+            "Vietnamese": "tại sao",
+            "Unit": "3"
+        },
+        {
+            "Index": "47",
+            "Word": "とても",
+            "Accent": "とても￢",
+            "Vietnamese": "rất",
+            "Unit": "3"
+        },
+        {
+            "Index": "48",
+            "Word": "なつ",
+            "Accent": "なつ￢",
+            "Vietnamese": "mùa hạ",
+            "Unit": "3"
+        },
+        {
+            "Index": "49",
+            "Word": "なつやすみ",
+            "Accent": "なつや￢すみ",
+            "Vietnamese": "nghỉ hè",
+            "Unit": "3"
+        },
+        {
+            "Index": "50",
+            "Word": "なべりょうり",
+            "Accent": "なべりょ￢うり",
+            "Vietnamese": "lẩu",
+            "Unit": "3"
+        },
+        {
+            "Index": "51",
+            "Word": "にがて",
+            "Accent": "にがて￣",
+            "Vietnamese": "chịu đựng kém, không giỏi",
+            "Unit": "3"
+        },
+        {
+            "Index": "52",
+            "Word": "にゅうがくしき",
+            "Accent": "にゅうがく￢しき",
+            "Vietnamese": "lễ khai giảng",
+            "Unit": "3"
+        },
+        {
+            "Index": "53",
+            "Word": "はな",
+            "Accent": "はな￢",
+            "Vietnamese": "hoa",
+            "Unit": "3"
+        },
+        {
+            "Index": "54",
+            "Word": "はなび",
+            "Accent": "は￢なび",
+            "Vietnamese": "pháo hoa",
+            "Unit": "3"
+        },
+        {
+            "Index": "55",
+            "Word": "はなみ",
+            "Accent": "はなみ￢",
+            "Vietnamese": "ngắm hoa anh đào",
+            "Unit": "3"
+        },
+        {
+            "Index": "56",
+            "Word": "はる",
+            "Accent": "は￢る",
+            "Vietnamese": "mùa xuân",
+            "Unit": "3"
+        },
+        {
+            "Index": "57",
+            "Word": "ひまわり",
+            "Accent": "ひま￢わり",
+            "Vietnamese": "hoa hướng dương",
+            "Unit": "3"
+        },
+        {
+            "Index": "58",
+            "Word": "ぶどう",
+            "Accent": "ぶどう￣",
+            "Vietnamese": "nho",
+            "Unit": "3"
+        },
+        {
+            "Index": "59",
+            "Word": "ぶどうがり",
+            "Accent": "ぶどうがり￣",
+            "Vietnamese": "hái nho",
+            "Unit": "3"
+        },
+        {
+            "Index": "60",
+            "Word": "ふゆ",
+            "Accent": "ふゆ￢",
+            "Vietnamese": "mùa đông",
+            "Unit": "3"
+        },
+        {
+            "Index": "61",
+            "Word": "ふります ",
+            "Accent": "ふりま￢す",
+            "Vietnamese": "rơi",
+            "Unit": "3"
+        },
+        {
+            "Index": "62",
+            "Word": "へいきん",
+            "Accent": "へいきん￣",
+            "Vietnamese": "trung bình",
+            "Unit": "3"
+        },
+        {
+            "Index": "63",
+            "Word": "まつり",
+            "Accent": "まつり￣",
+            "Vietnamese": "lễ hội",
+            "Unit": "3"
+        },
+        {
+            "Index": "64",
+            "Word": "むしあつい",
+            "Accent": "むしあつ￢い",
+            "Vietnamese": "nóng nực, oi bức",
+            "Unit": "3"
+        },
+        {
+            "Index": "65",
+            "Word": "もみじ",
+            "Accent": "も￢みじ",
+            "Vietnamese": "lá đỏ",
+            "Unit": "3"
+        },
+        {
+            "Index": "66",
+            "Word": "やまだ／やまださん",
+            "Accent": "やまだ￣／やまださん￣",
+            "Vietnamese": "Yamada (tên người)",
+            "Unit": "3"
+        }
+    ],
+    "Bài 4": [
+        {
+            "Index": "1",
+            "Word": "ああ",
+            "Accent": "―――",
+            "Vietnamese": "À ~",
+            "Unit": "4"
+        },
+        {
+            "Index": "2",
+            "Word": "あした",
+            "Accent": "あした￢",
+            "Vietnamese": "ngày mai",
+            "Unit": "4"
+        },
+        {
+            "Index": "3",
+            "Word": "いい",
+            "Accent": "い￢い",
+            "Vietnamese": "đẹp, tốt",
+            "Unit": "4"
+        },
+        {
+            "Index": "4",
+            "Word": "ええ",
+            "Accent": "―――",
+            "Vietnamese": "Vâng",
+            "Unit": "4"
+        },
+        {
+            "Index": "5",
+            "Word": "おかげさまで",
+            "Accent": "おかげさまで￣",
+            "Vietnamese": "nhờ trời, ơn trời",
+            "Unit": "4"
+        },
+        {
+            "Index": "6",
+            "Word": "おはよう",
+            "Accent": "おはよう￣",
+            "Vietnamese": "Chào. (buổi sáng)",
+            "Unit": "4"
+        },
+        {
+            "Index": "7",
+            "Word": "カイロ",
+            "Accent": "カ￢イロ",
+            "Vietnamese": "Cairo",
+            "Unit": "4"
+        },
+        {
+            "Index": "8",
+            "Word": "かぜ",
+            "Accent": "かぜ￣",
+            "Vietnamese": "gió",
+            "Unit": "4"
+        },
+        {
+            "Index": "9",
+            "Word": "きのう",
+            "Accent": "きの￢う、きのう￣",
+            "Vietnamese": "hôm qua",
+            "Unit": "4"
+        },
+        {
+            "Index": "10",
+            "Word": "きもち（が） いい",
+            "Accent": "きもちが い￢い",
+            "Vietnamese": "thoải mái, dễ chịu",
+            "Unit": "4"
+        },
+        {
+            "Index": "11",
+            "Word": "きょう",
+            "Accent": "きょ￢う",
+            "Vietnamese": "hôm nay",
+            "Unit": "4"
+        },
+        {
+            "Index": "12",
+            "Word": "くもり",
+            "Accent": "くもり￢",
+            "Vietnamese": "mây",
+            "Unit": "4"
+        },
+        {
+            "Index": "13",
+            "Word": "くもります ",
+            "Accent": "くもりま￢す",
+            "Vietnamese": "âm u, nhiều mây",
+            "Unit": "4"
+        },
+        {
+            "Index": "14",
+            "Word": "げんき",
+            "Accent": "げ￢んき",
+            "Vietnamese": "khỏe mạnh",
+            "Unit": "4"
+        },
+        {
+            "Index": "15",
+            "Word": "ごご",
+            "Accent": "ご￢ご",
+            "Vietnamese": "chiều, tối (PM)",
+            "Unit": "4"
+        },
+        {
+            "Index": "16",
+            "Word": "こっち",
+            "Accent": "こっち￢",
+            "Vietnamese": "phía đằng này (dạng thân mật của こちら)",
+            "Unit": "4"
+        },
+        {
+            "Index": "17",
+            "Word": "こんにちは",
+            "Accent": "こんにちは￢",
+            "Vietnamese": "Chào. (buổi trưa, chiều)",
+            "Unit": "4"
+        },
+        {
+            "Index": "18",
+            "Word": "さっぽろ",
+            "Kanji": "札幌",
+            "Accent": "さっぽろ￣",
+            "Vietnamese": "Sapporo",
+            "Unit": "4"
+        },
+        {
+            "Index": "19",
+            "Word": "サンパウロ",
+            "Accent": "サンパ￢ウロ",
+            "Vietnamese": "Sao Paulo",
+            "Unit": "4"
+        },
+        {
+            "Index": "20",
+            "Word": "シドニー",
+            "Accent": "シ￢ドニー",
+            "Vietnamese": "Sydney",
+            "Unit": "4"
+        },
+        {
+            "Index": "21",
+            "Word": "ジャカルタ",
+            "Accent": "ジャカルタ￣",
+            "Vietnamese": "Jakarta",
+            "Unit": "4"
+        },
+        {
+            "Index": "22",
+            "Word": "すごい",
+            "Accent": "すご￢い",
+            "Vietnamese": "dữ dội, khủng khiếp",
+            "Unit": "4"
+        },
+        {
+            "Index": "23",
+            "Word": "せかい",
+            "Kanji": "世界",
+            "Accent": "せ￢かい",
+            "Vietnamese": "thế giới",
+            "Unit": "4"
+        },
+        {
+            "Index": "24",
+            "Word": "せんしゅう",
+            "Accent": "せんしゅう￣",
+            "Vietnamese": "tuần trước",
+            "Unit": "4"
+        },
+        {
+            "Index": "25",
+            "Word": "センチ／～センチ",
+            "Accent": "～セ￢ンチ",
+            "Vietnamese": "～centimet",
+            "Unit": "4"
+        },
+        {
+            "Index": "26",
+            "Word": "ソウル",
+            "Accent": "ソ￢ウル",
+            "Vietnamese": "Seoul",
+            "Unit": "4"
+        },
+        {
+            "Index": "27",
+            "Word": "そして",
+            "Accent": "そして￣",
+            "Vietnamese": "và, thế là",
+            "Unit": "4"
+        },
+        {
+            "Index": "28",
+            "Word": "そっち",
+            "Accent": "そっち￢",
+            "Vietnamese": "phía đằng đấy (dạng thân mật của そちら)",
+            "Unit": "4"
+        },
+        {
+            "Index": "29",
+            "Word": "たいへん",
+            "Accent": "たいへん￣",
+            "Vietnamese": "vất vả",
+            "Unit": "4"
+        },
+        {
+            "Index": "30",
+            "Word": "たぶん",
+            "Accent": "た￢ぶん",
+            "Vietnamese": "có lẽ",
+            "Unit": "4"
+        },
+        {
+            "Index": "31",
+            "Word": "つもります ",
+            "Accent": "つもりま￢す",
+            "Vietnamese": "chất đống, tích tụ lại",
+            "Unit": "4"
+        },
+        {
+            "Index": "32",
+            "Word": "つよい",
+            "Accent": "つよ￢い",
+            "Vietnamese": "mạnh",
+            "Unit": "4"
+        },
+        {
+            "Index": "33",
+            "Word": "どう",
+            "Accent": "ど￢う",
+            "Vietnamese": "như thế nào",
+            "Unit": "4"
+        },
+        {
+            "Index": "34",
+            "Word": "とやま",
+            "Kanji": "富山",
+            "Accent": "と￢やま",
+            "Vietnamese": "Toyama",
+            "Unit": "4"
+        },
+        {
+            "Index": "35",
+            "Word": "ニューヨーク",
+            "Accent": "ニューヨ￢ーク",
+            "Vietnamese": "New York",
+            "Unit": "4"
+        },
+        {
+            "Index": "36",
+            "Word": "はい",
+            "Accent": "は￢い",
+            "Vietnamese": "vâng",
+            "Unit": "4"
+        },
+        {
+            "Index": "37",
+            "Word": "はれ",
+            "Accent": "はれ￢",
+            "Vietnamese": "trời quang mây, có nắng",
+            "Unit": "4"
+        },
+        {
+            "Index": "38",
+            "Word": "はれます ",
+            "Accent": "はれま￢す",
+            "Vietnamese": "trời quang mây, có nắng",
+            "Unit": "4"
+        },
+        {
+            "Index": "39",
+            "Word": "ひさしぶり",
+            "Accent": "ひさしぶり￣",
+            "Vietnamese": "Lâu lắm mới gặp.",
+            "Unit": "4"
+        },
+        {
+            "Index": "40",
+            "Word": "ふきます",
+            "Accent": "ふきま￢す",
+            "Vietnamese": "thổi",
+            "Unit": "4"
+        },
+        {
+            "Index": "41",
+            "Word": "ふくおか",
+            "Kanji": "福岡",
+            "Accent": "ふく￢おか",
+            "Vietnamese": "Fukuoka",
+            "Unit": "4"
+        },
+        {
+            "Index": "42",
+            "Word": "ペキン",
+            "Kanji": "北京",
+            "Accent": "ペ￢キン",
+            "Vietnamese": "Bắc Kinh",
+            "Unit": "4"
+        },
+        {
+            "Index": "43",
+            "Word": "ほっかいどう",
+            "Kanji": "北海道",
+            "Accent": "ほっか￢いどう",
+            "Vietnamese": "Hokkaido",
+            "Unit": "4"
+        },
+        {
+            "Index": "44",
+            "Word": "まいにち",
+            "Accent": "ま￢いにち",
+            "Vietnamese": "hàng ngày",
+            "Unit": "4"
+        },
+        {
+            "Index": "45",
+            "Word": "もしもし",
+            "Accent": "も￢しもし",
+            "Vietnamese": "A-lô",
+            "Unit": "4"
+        },
+        {
+            "Index": "46",
+            "Word": "モスクワ",
+            "Accent": "モスクワ￣",
+            "Vietnamese": "Mát-xcơ-va",
+            "Unit": "4"
+        },
+        {
+            "Index": "47",
+            "Word": "ゆき",
+            "Accent": "ゆき￢",
+            "Vietnamese": "tuyết",
+            "Unit": "4"
+        },
+        {
+            "Index": "48",
+            "Word": "よく",
+            "Accent": "よ￢く",
+            "Vietnamese": "làm ~ tốt",
+            "Unit": "4"
+        },
+        {
+            "Index": "49",
+            "Word": "ロサンゼルス",
+            "Accent": "ロサンゼ￢ルス",
+            "Vietnamese": "Los Angeles",
+            "Unit": "4"
+        },
+        {
+            "Index": "50",
+            "Word": "ロンドン",
+            "Accent": "ロ￢ンドン",
+            "Vietnamese": "Luân Đôn",
+            "Unit": "4"
+        }
+    ],
+    "Bài 5": [
+        {
+            "Index": "1",
+            "Word": "あきはばら",
+            "Kanji": "秋葉原",
+            "Accent": "あきは￢ばら",
+            "Vietnamese": "Akihabara",
+            "Unit": "5"
+        },
+        {
+            "Index": "2",
+            "Word": "あさ",
+            "Accent": "あ￢さ",
+            "Vietnamese": "buổi sáng",
+            "Unit": "5"
+        },
+        {
+            "Index": "3",
+            "Word": "あたり",
+            "Accent": "あ￢たり",
+            "Vietnamese": "vùng, khu vực",
+            "Unit": "5"
+        },
+        {
+            "Index": "4",
+            "Word": "あぶない",
+            "Accent": "あぶない￣、あぶな￢い",
+            "Vietnamese": "nguy hiểm",
+            "Unit": "5"
+        },
+        {
+            "Index": "5",
+            "Word": "いきます ",
+            "Kanji": "行きます",
+            "Accent": "いきま￢す",
+            "Vietnamese": "đi",
+            "Unit": "5"
+        },
+        {
+            "Index": "6",
+            "Word": "いざかや",
+            "Accent": "いざかや￣",
+            "Vietnamese": "quán rượu kiểu Nhật",
+            "Unit": "5"
+        },
+        {
+            "Index": "7",
+            "Word": "いっしょに",
+            "Accent": "いっしょに￣",
+            "Vietnamese": "cùng nhau",
+            "Unit": "5"
+        },
+        {
+            "Index": "8",
+            "Word": "いろいろ",
+            "Accent": "いろいろ￣",
+            "Vietnamese": "nhiều, đa dạng",
+            "Unit": "5"
+        },
+        {
+            "Index": "9",
+            "Word": "うえの",
+            "Kanji": "上野",
+            "Accent": "うえの￣",
+            "Vietnamese": "Ueno",
+            "Unit": "5"
+        },
+        {
+            "Index": "10",
+            "Word": "うえのこうえん",
+            "Kanji": "上野公園",
+            "Accent": "うえのこ￢うえん",
+            "Vietnamese": "công viên Ueno",
+            "Unit": "5"
+        },
+        {
+            "Index": "11",
+            "Word": "うおいちば",
+            "Accent": "うおい￢ちば",
+            "Vietnamese": "chợ cá",
+            "Unit": "5"
+        },
+        {
+            "Index": "12",
+            "Word": "え／えっ",
+            "Accent": "―――",
+            "Vietnamese": "Ớ! Vậy á? (ngạc nhiên)",
+            "Unit": "5"
+        },
+        {
+            "Index": "13",
+            "Word": "ええと／えっと／ええっと",
+            "Accent": "―――",
+            "Vietnamese": "À…, Ừm...",
+            "Unit": "5"
+        },
+        {
+            "Index": "14",
+            "Word": "えき",
+            "Accent": "え￢き",
+            "Vietnamese": "nhà ga",
+            "Unit": "5"
+        },
+        {
+            "Index": "15",
+            "Word": "おおい",
+            "Accent": "お￢おい",
+            "Vietnamese": "nhiều",
+            "Unit": "5"
+        },
+        {
+            "Index": "16",
+            "Word": "おしゃれ",
+            "Accent": "おしゃ￢れ",
+            "Vietnamese": "lộng lẫy, ăn diện",
+            "Unit": "5"
+        },
+        {
+            "Index": "17",
+            "Word": "おもしろい",
+            "Accent": "おもしろ￢い",
+            "Vietnamese": "thú vị",
+            "Unit": "5"
+        },
+        {
+            "Index": "18",
+            "Word": "がんばります ",
+            "Accent": "がんばりま￢す",
+            "Vietnamese": "cố gắng",
+            "Unit": "5"
+        },
+        {
+            "Index": "19",
+            "Word": "ぎんざ",
+            "Kanji": "銀座",
+            "Accent": "ぎんざ￣",
+            "Vietnamese": "Ginza",
+            "Unit": "5"
+        },
+        {
+            "Index": "20",
+            "Word": "ゲームセンター",
+            "Accent": "ゲームセ￢ンター",
+            "Vietnamese": "trung tâm trò chơi giải trí",
+            "Unit": "5"
+        },
+        {
+            "Index": "21",
+            "Word": "こうえん",
+            "Accent": "こうえん￣",
+            "Vietnamese": "công viên",
+            "Unit": "5"
+        },
+        {
+            "Index": "22",
+            "Word": "こうきょ",
+            "Kanji": "皇居",
+            "Accent": "こ￢うきょ",
+            "Vietnamese": "hoàng cung",
+            "Unit": "5"
+        },
+        {
+            "Index": "23",
+            "Word": "コース",
+            "Accent": "コ￢ース",
+            "Vietnamese": "khóa học",
+            "Unit": "5"
+        },
+        {
+            "Index": "24",
+            "Word": "ここ",
+            "Accent": "ここ￣",
+            "Vietnamese": "ở đây, chỗ này",
+            "Unit": "5"
+        },
+        {
+            "Index": "25",
+            "Word": "この",
+            "Accent": "この￣",
+            "Vietnamese": "cái ~ này",
+            "Unit": "5"
+        },
+        {
+            "Index": "26",
+            "Word": "じかん／～じかん",
+            "Accent": "～じ￢かん",
+            "Vietnamese": "~ tiếng (thời gian)",
+            "Unit": "5"
+        },
+        {
+            "Index": "27",
+            "Word": "しずか",
+            "Accent": "し￢ずか",
+            "Vietnamese": "yên tĩnh",
+            "Unit": "5"
+        },
+        {
+            "Index": "28",
+            "Word": "しんじゅく",
+            "Kanji": "新宿",
+            "Accent": "しんじゅく￣",
+            "Vietnamese": "Shinjuku",
+            "Unit": "5"
+        },
+        {
+            "Index": "29",
+            "Word": "ぜひ",
+            "Accent": "ぜ￢ひ",
+            "Vietnamese": "nhất định",
+            "Unit": "5"
+        },
+        {
+            "Index": "30",
+            "Word": "それから",
+            "Accent": "それから￢",
+            "Vietnamese": "sau đó",
+            "Unit": "5"
+        },
+        {
+            "Index": "31",
+            "Word": "タウン",
+            "Accent": "タ￢ウン",
+            "Vietnamese": "thành phố nhỏ, thị trấn",
+            "Unit": "5"
+        },
+        {
+            "Index": "32",
+            "Word": "たかい",
+            "Accent": "たか￢い",
+            "Vietnamese": "đắt",
+            "Unit": "5"
+        },
+        {
+            "Index": "33",
+            "Word": "たくさん",
+            "Accent": "たくさん￣",
+            "Vietnamese": "nhiều",
+            "Unit": "5"
+        },
+        {
+            "Index": "34",
+            "Word": "たのしい",
+            "Accent": "たのし￢い",
+            "Vietnamese": "vui vẻ, thú vị",
+            "Unit": "5"
+        },
+        {
+            "Index": "35",
+            "Word": "ちかく",
+            "Accent": "ち￢かく、ちか￢く",
+            "Vietnamese": "gần",
+            "Unit": "5"
+        },
+        {
+            "Index": "36",
+            "Word": "ちょっと",
+            "Accent": "ちょ￢っと",
+            "Vietnamese": "một chút",
+            "Unit": "5"
+        },
+        {
+            "Index": "37",
+            "Word": "つきじ",
+            "Kanji": "築地",
+            "Accent": "つきじ￣",
+            "Vietnamese": "Tsukiji",
+            "Unit": "5"
+        },
+        {
+            "Index": "38",
+            "Word": "でんきてん",
+            "Accent": "でんき￢てん",
+            "Vietnamese": "cửa hàng đồ điện",
+            "Unit": "5"
+        },
+        {
+            "Index": "39",
+            "Word": "どうぶつえん",
+            "Accent": "どうぶつ￢えん",
+            "Vietnamese": "vườn bách thú",
+            "Unit": "5"
+        },
+        {
+            "Index": "40",
+            "Word": "とおい",
+            "Accent": "とおい￣、とお￢い",
+            "Vietnamese": "xa",
+            "Unit": "5"
+        },
+        {
+            "Index": "41",
+            "Word": "どの",
+            "Accent": "ど￢の",
+            "Vietnamese": "cái ~ nào",
+            "Unit": "5"
+        },
+        {
+            "Index": "42",
+            "Word": "にぎやか",
+            "Accent": "にぎ￢やか",
+            "Vietnamese": "nhộn nhịp, náo nhiệt",
+            "Unit": "5"
+        },
+        {
+            "Index": "43",
+            "Word": "にしぐち",
+            "Kanji": "西口",
+            "Accent": "にしぐち￣",
+            "Vietnamese": "cửa Tây",
+            "Unit": "5"
+        },
+        {
+            "Index": "44",
+            "Word": "バス",
+            "Accent": "バ￢ス",
+            "Vietnamese": "xe buýt",
+            "Unit": "5"
+        },
+        {
+            "Index": "45",
+            "Word": "はやい",
+            "Accent": "はや￢い",
+            "Vietnamese": "sớm",
+            "Unit": "5"
+        },
+        {
+            "Index": "46",
+            "Word": "はらじゅく",
+            "Kanji": "原宿",
+            "Accent": "はらじゅく￣",
+            "Vietnamese": "Harajuku",
+            "Unit": "5"
+        },
+        {
+            "Index": "47",
+            "Word": "ひがしぐち",
+            "Kanji": "東口",
+            "Accent": "ひがしぐち￣",
+            "Vietnamese": "cửa Đông",
+            "Unit": "5"
+        },
+        {
+            "Index": "48",
+            "Word": "ひと",
+            "Kanji": "人",
+            "Accent": "ひと￣、～ひと￢",
+            "Vietnamese": "người",
+            "Unit": "5"
+        },
+        {
+            "Index": "49",
+            "Word": "ひろい",
+            "Accent": "ひろ￢い",
+            "Vietnamese": "rộng",
+            "Unit": "5"
+        },
+        {
+            "Index": "50",
+            "Word": "ファッション",
+            "Accent": "ファ￢ッション",
+            "Vietnamese": "thời trang",
+            "Unit": "5"
+        },
+        {
+            "Index": "51",
+            "Word": "ふじさん",
+            "Kanji": "富士山",
+            "Accent": "ふ￢じさん",
+            "Vietnamese": "núi Phú Sĩ",
+            "Unit": "5"
+        },
+        {
+            "Index": "52",
+            "Word": "べんり",
+            "Accent": "べ￢んり",
+            "Vietnamese": "tiện lợi",
+            "Unit": "5"
+        },
+        {
+            "Index": "53",
+            "Word": "まち",
+            "Accent": "まち￢",
+            "Vietnamese": "phố phường",
+            "Unit": "5"
+        },
+        {
+            "Index": "54",
+            "Word": "みせ",
+            "Accent": "みせ￢",
+            "Vietnamese": "cửa hàng",
+            "Unit": "5"
+        },
+        {
+            "Index": "55",
+            "Word": "やすい",
+            "Accent": "やす￢い",
+            "Vietnamese": "rẻ",
+            "Unit": "5"
+        },
+        {
+            "Index": "56",
+            "Word": "ゆうこ／ゆうこさん",
+            "Accent": "ゆ￢うこ／ゆ￢うこさん",
+            "Vietnamese": "Yuko (tên người)",
+            "Unit": "5"
+        },
+        {
+            "Index": "57",
+            "Word": "ゆうめい",
+            "Accent": "ゆうめい￣",
+            "Vietnamese": "nổi tiếng",
+            "Unit": "5"
+        },
+        {
+            "Index": "58",
+            "Word": "よる",
+            "Accent": "よ￢る",
+            "Vietnamese": "buổi tối, đêm",
+            "Unit": "5"
+        },
+        {
+            "Index": "59",
+            "Word": "レストラン",
+            "Accent": "レ￢ストラン",
+            "Vietnamese": "nhà hàng",
+            "Unit": "5"
+        },
+        {
+            "Index": "60",
+            "Word": "わかります ",
+            "Accent": "わかりま￢す",
+            "Vietnamese": "hiểu",
+            "Unit": "5"
+        }
+    ],
+    "Bài 6": [
+        {
+            "Index": "1",
+            "Word": "あ／あっ",
+            "Accent": "―――",
+            "Vietnamese": "A !",
+            "Unit": "6"
+        },
+        {
+            "Index": "2",
+            "Word": "あおい",
+            "Accent": "あお￢い",
+            "Vietnamese": "xanh da trời",
+            "Unit": "6"
+        },
+        {
+            "Index": "3",
+            "Word": "あかい",
+            "Accent": "あかい￣、あか￢い",
+            "Vietnamese": "đỏ",
+            "Unit": "6"
+        },
+        {
+            "Index": "4",
+            "Word": "あそこ",
+            "Accent": "あそこ￣",
+            "Vietnamese": "ở kia, đằng kia",
+            "Unit": "6"
+        },
+        {
+            "Index": "5",
+            "Word": "あの",
+            "Accent": "あの￣",
+            "Vietnamese": "~ kia",
+            "Unit": "6"
+        },
+        {
+            "Index": "6",
+            "Word": "ありがとう",
+            "Accent": "あり￢がとう",
+            "Vietnamese": "Cảm ơn.",
+            "Unit": "6"
+        },
+        {
+            "Index": "7",
+            "Word": "あれ",
+            "Accent": "あれ￣",
+            "Vietnamese": "cái kia",
+            "Unit": "6"
+        },
+        {
+            "Index": "8",
+            "Word": "いいえ／いえ",
+            "Accent": "いいえ￢／いえ￢",
+            "Vietnamese": "Không.",
+            "Unit": "6"
+        },
+        {
+            "Index": "9",
+            "Word": "ううん／うーん",
+            "Accent": "―――",
+            "Vietnamese": "Ừm…",
+            "Unit": "6"
+        },
+        {
+            "Index": "10",
+            "Word": "おおきい",
+            "Kanji": "大きい",
+            "Accent": "おおき￢い",
+            "Vietnamese": "to",
+            "Unit": "6"
+        },
+        {
+            "Index": "11",
+            "Word": "かど",
+            "Accent": "か￢ど",
+            "Vietnamese": "góc (đường), chỗ rẽ",
+            "Unit": "6"
+        },
+        {
+            "Index": "12",
+            "Word": "ぎんこう",
+            "Accent": "ぎんこう￣",
+            "Vietnamese": "ngân hàng",
+            "Unit": "6"
+        },
+        {
+            "Index": "13",
+            "Word": "こうさてん",
+            "Accent": "こうさてん￣",
+            "Vietnamese": "ngã tư",
+            "Unit": "6"
+        },
+        {
+            "Index": "14",
+            "Word": "しろい",
+            "Accent": "しろ￢い",
+            "Vietnamese": "trắng",
+            "Unit": "6"
+        },
+        {
+            "Index": "15",
+            "Word": "しんごう",
+            "Accent": "しんごう￣",
+            "Vietnamese": "đèn tín hiệu giao thông",
+            "Unit": "6"
+        },
+        {
+            "Index": "16",
+            "Word": "すぐ",
+            "Accent": "す￢ぐ",
+            "Vietnamese": "ngay",
+            "Unit": "6"
+        },
+        {
+            "Index": "17",
+            "Word": "すみません",
+            "Accent": "すみませ￢ん",
+            "Vietnamese": "Xin lỗi.",
+            "Unit": "6"
+        },
+        {
+            "Index": "18",
+            "Word": "たいしかん",
+            "Accent": "たいし￢かん",
+            "Vietnamese": "đại sứ quán",
+            "Unit": "6"
+        },
+        {
+            "Index": "19",
+            "Word": "たかい",
+            "Accent": "たか￢い",
+            "Vietnamese": "cao",
+            "Unit": "6"
+        },
+        {
+            "Index": "20",
+            "Word": "たてもの",
+            "Accent": "たて￢もの",
+            "Vietnamese": "tòa nhà",
+            "Unit": "6"
+        },
+        {
+            "Index": "21",
+            "Word": "タワー",
+            "Accent": "タ￢ワー",
+            "Vietnamese": "tháp",
+            "Unit": "6"
+        },
+        {
+            "Index": "22",
+            "Word": "デパート",
+            "Accent": "デパ￢ート",
+            "Vietnamese": "trung tâm thương mại",
+            "Unit": "6"
+        },
+        {
+            "Index": "23",
+            "Word": "どうも",
+            "Accent": "ど￢うも",
+            "Vietnamese": "rất nhiều",
+            "Unit": "6"
+        },
+        {
+            "Index": "24",
+            "Word": "どうやって",
+            "Accent": "ど￢うやって",
+            "Vietnamese": "làm như thế nào",
+            "Unit": "6"
+        },
+        {
+            "Index": "25",
+            "Word": "とおり",
+            "Accent": "とおり￢",
+            "Vietnamese": "phố",
+            "Unit": "6"
+        },
+        {
+            "Index": "26",
+            "Word": "どこ",
+            "Accent": "ど￢こ",
+            "Vietnamese": "ở đâu",
+            "Unit": "6"
+        },
+        {
+            "Index": "27",
+            "Word": "となり",
+            "Accent": "となり￣",
+            "Vietnamese": "cạnh, gần",
+            "Unit": "6"
+        },
+        {
+            "Index": "28",
+            "Word": "はくぶつかん",
+            "Accent": "はくぶつ￢かん",
+            "Vietnamese": "bảo tàng",
+            "Unit": "6"
+        },
+        {
+            "Index": "29",
+            "Word": "はし",
+            "Accent": "はし￢",
+            "Vietnamese": "cầu",
+            "Unit": "6"
+        },
+        {
+            "Index": "30",
+            "Word": "ひだり",
+            "Accent": "ひだり￣",
+            "Vietnamese": "bên trái",
+            "Unit": "6"
+        },
+        {
+            "Index": "31",
+            "Word": "ひとつ",
+            "Kanji": "１つ／一つ",
+            "Accent": "ひと￢つ",
+            "Vietnamese": "một cái",
+            "Unit": "6"
+        },
+        {
+            "Index": "32",
+            "Word": "ひとつめ",
+            "Kanji": "１つめ／一つめ",
+            "Accent": "ひとつめ￢",
+            "Vietnamese": "~ thứ nhất",
+            "Unit": "6"
+        },
+        {
+            "Index": "33",
+            "Word": "ビル",
+            "Accent": "ビ￢ル",
+            "Vietnamese": "tòa nhà cao tầng",
+            "Unit": "6"
+        },
+        {
+            "Index": "34",
+            "Word": "ふたつ",
+            "Kanji": "２つ／二つ",
+            "Accent": "ふたつ￢",
+            "Vietnamese": "hai cái",
+            "Unit": "6"
+        },
+        {
+            "Index": "35",
+            "Word": "ふたつめ",
+            "Kanji": "２つめ／二つめ",
+            "Accent": "ふたつめ￢",
+            "Vietnamese": "cái thứ hai",
+            "Unit": "6"
+        },
+        {
+            "Index": "36",
+            "Word": "ほそながい",
+            "Accent": "ほそなが￢い",
+            "Vietnamese": "thon dài",
+            "Unit": "6"
+        },
+        {
+            "Index": "37",
+            "Word": "まがります ",
+            "Accent": "まがりま￢す",
+            "Vietnamese": "rẽ, ngoặt",
+            "Unit": "6"
+        },
+        {
+            "Index": "38",
+            "Word": "まっすぐ",
+            "Accent": "まっす￢ぐ",
+            "Vietnamese": "thẳng",
+            "Unit": "6"
+        },
+        {
+            "Index": "39",
+            "Word": "まるい",
+            "Accent": "まるい￣、まる￢い",
+            "Vietnamese": "tròn",
+            "Unit": "6"
+        },
+        {
+            "Index": "40",
+            "Word": "みえます ",
+            "Kanji": "見えます",
+            "Accent": "みえま￢す",
+            "Vietnamese": "nhìn thấy",
+            "Unit": "6"
+        },
+        {
+            "Index": "41",
+            "Word": "みぎ",
+            "Accent": "みぎ￣",
+            "Vietnamese": "bên phải",
+            "Unit": "6"
+        },
+        {
+            "Index": "42",
+            "Word": "みち",
+            "Accent": "みち￣",
+            "Vietnamese": "con đường",
+            "Unit": "6"
+        },
+        {
+            "Index": "43",
+            "Word": "ゆうびんきょく",
+            "Accent": "ゆうび￢んきょく",
+            "Vietnamese": "bưu điện",
+            "Unit": "6"
+        },
+        {
+            "Index": "44",
+            "Word": "わたります ",
+            "Accent": "わたりま￢す",
+            "Vietnamese": "sang, băng qua",
+            "Unit": "6"
+        }
+    ],
+    "Bài 7": [
+        {
+            "Index": "1",
+            "Word": "あのう",
+            "Accent": "―――",
+            "Vietnamese": "À…/ Ừm…",
+            "Unit": "7"
+        },
+        {
+            "Index": "2",
+            "Word": "あべ／あべさん",
+            "Accent": "あべ￣／あべさん￣",
+            "Vietnamese": "Abe (tên người)",
+            "Unit": "7"
+        },
+        {
+            "Index": "3",
+            "Word": "いりぐち",
+            "Accent": "いりぐち￣",
+            "Vietnamese": "lối vào",
+            "Unit": "7"
+        },
+        {
+            "Index": "4",
+            "Word": "おくれます ",
+            "Accent": "おくれま￢す",
+            "Vietnamese": "đến muộn, chậm",
+            "Unit": "7"
+        },
+        {
+            "Index": "5",
+            "Word": "おそい",
+            "Accent": "おそい￣、おそ￢い",
+            "Vietnamese": "muộn",
+            "Unit": "7"
+        },
+        {
+            "Index": "6",
+            "Word": "きます ",
+            "Kanji": "来ます",
+            "Accent": "きま￢す",
+            "Vietnamese": "đến",
+            "Unit": "7"
+        },
+        {
+            "Index": "7",
+            "Word": "きやま／きやまさん",
+            "Accent": "き￢やま／き￢やまさん",
+            "Vietnamese": "Kiyama (tên người)",
+            "Unit": "7"
+        },
+        {
+            "Index": "8",
+            "Word": "コーヒーショップ",
+            "Accent": "コーヒーショ￢ップ",
+            "Vietnamese": "quán cà phê",
+            "Unit": "7"
+        },
+        {
+            "Index": "9",
+            "Word": "じ／～じ",
+            "Kanji": "～時",
+            "Accent": "～￢じ",
+            "Vietnamese": "～giờ",
+            "Unit": "7"
+        },
+        {
+            "Index": "10",
+            "Word": "じかん",
+            "Accent": "じかん￣",
+            "Vietnamese": "thời gian",
+            "Unit": "7"
+        },
+        {
+            "Index": "11",
+            "Word": "じゅうたい",
+            "Accent": "じゅうたい￣",
+            "Vietnamese": "tắc đường",
+            "Unit": "7"
+        },
+        {
+            "Index": "12",
+            "Word": "だいじょうぶ",
+            "Accent": "だいじょ￢うぶ",
+            "Vietnamese": "ổn, không sao",
+            "Unit": "7"
+        },
+        {
+            "Index": "13",
+            "Word": "たのしみ",
+            "Accent": "たのし￢み",
+            "Vietnamese": "thích thú, mong chờ",
+            "Unit": "7"
+        },
+        {
+            "Index": "14",
+            "Word": "でかけます ",
+            "Accent": "でかけま￢す",
+            "Vietnamese": "ra ngoài",
+            "Unit": "7"
+        },
+        {
+            "Index": "15",
+            "Word": "でんしゃ",
+            "Accent": "でんしゃ￣、で￢んしゃ",
+            "Vietnamese": "tàu điện",
+            "Unit": "7"
+        },
+        {
+            "Index": "16",
+            "Word": "とまります ",
+            "Accent": "とまりま￢す",
+            "Vietnamese": "dừng",
+            "Unit": "7"
+        },
+        {
+            "Index": "17",
+            "Word": "どようび／ど",
+            "Kanji": "土よう日／土",
+            "Accent": "どよ￢うび",
+            "Vietnamese": "thứ bảy",
+            "Unit": "7"
+        },
+        {
+            "Index": "18",
+            "Word": "にちようび／にち",
+            "Kanji": "日よう日／日",
+            "Accent": "にちよ￢うび／に￢ち",
+            "Vietnamese": "chủ nhật",
+            "Unit": "7"
+        },
+        {
+            "Index": "19",
+            "Word": "ばしょ",
+            "Accent": "ばしょ￣",
+            "Vietnamese": "địa điểm",
+            "Unit": "7"
+        },
+        {
+            "Index": "20",
+            "Word": "ははは",
+            "Accent": "―――",
+            "Vietnamese": "ha ha ha (cười)",
+            "Unit": "7"
+        },
+        {
+            "Index": "21",
+            "Word": "ふん／ぷん",
+            "Kanji": "～分",
+            "Accent": "～￢ふん",
+            "Vietnamese": "~ phút",
+            "Unit": "7"
+        },
+        {
+            "Index": "22",
+            "Word": "まえ",
+            "Accent": "ま￢え",
+            "Vietnamese": "trước",
+            "Unit": "7"
+        },
+        {
+            "Index": "23",
+            "Word": "また",
+            "Accent": "また￢",
+            "Vietnamese": "lại ~",
+            "Unit": "7"
+        },
+        {
+            "Index": "24",
+            "Word": "まちあわせ",
+            "Accent": "まちあわせ￣",
+            "Vietnamese": "cuộc hẹn gặp",
+            "Unit": "7"
+        },
+        {
+            "Index": "25",
+            "Word": "まちがえます",
+            "Accent": "まちがえま￢す",
+            "Vietnamese": "nhầm",
+            "Unit": "7"
+        },
+        {
+            "Index": "26",
+            "Word": "まちます ",
+            "Accent": "まちま￢す",
+            "Vietnamese": "chờ",
+            "Unit": "7"
+        },
+        {
+            "Index": "27",
+            "Word": "まよいます ",
+            "Accent": "まよいま￢す",
+            "Vietnamese": "lạc",
+            "Unit": "7"
+        },
+        {
+            "Index": "28",
+            "Word": "よしだ／よしださん",
+            "Accent": "よしだ￣／よしださん￣",
+            "Vietnamese": "Yoshida (tên người)",
+            "Unit": "7"
+        },
+        {
+            "Index": "29",
+            "Word": "ロビー",
+            "Accent": "ロ￢ビー",
+            "Vietnamese": "đại sảnh",
+            "Unit": "7"
+        }
+    ],
+    "Bài 8": [
+        {
+            "Index": "1",
+            "Word": "あと",
+            "Accent": "あ￢と",
+            "Vietnamese": "sau khi",
+            "Unit": "8"
+        },
+        {
+            "Index": "2",
+            "Word": "います ",
+            "Accent": "いま￢す",
+            "Vietnamese": "có (người, động vật)",
+            "Unit": "8"
+        },
+        {
+            "Index": "3",
+            "Word": "おすし（すし）",
+            "Accent": "おす￢し",
+            "Vietnamese": "sushi",
+            "Unit": "8"
+        },
+        {
+            "Index": "4",
+            "Word": "おすすめ",
+            "Accent": "おすすめ￣",
+            "Vietnamese": "lời khuyên, gợi ý, đề xuất",
+            "Unit": "8"
+        },
+        {
+            "Index": "5",
+            "Word": "おみやげ（みやげ）",
+            "Accent": "おみやげ￣",
+            "Vietnamese": "quà lưu niệm",
+            "Unit": "8"
+        },
+        {
+            "Index": "6",
+            "Word": "かいます ",
+            "Kanji": "買います",
+            "Accent": "かいま￢す",
+            "Vietnamese": "mua",
+            "Unit": "8"
+        },
+        {
+            "Index": "7",
+            "Word": "さかな",
+            "Kanji": "魚",
+            "Accent": "さかな￣",
+            "Vietnamese": "cá",
+            "Unit": "8"
+        },
+        {
+            "Index": "8",
+            "Word": "しょくじ",
+            "Accent": "しょくじ￣",
+            "Vietnamese": "bữa ăn",
+            "Unit": "8"
+        },
+        {
+            "Index": "9",
+            "Word": "すいじょうバス",
+            "Accent": "すいじょうバ￢ス",
+            "Vietnamese": "du thuyền chở khách",
+            "Unit": "8"
+        },
+        {
+            "Index": "10",
+            "Word": "すいぞくかん",
+            "Accent": "すいぞく￢かん",
+            "Vietnamese": "nhà thủy sinh",
+            "Unit": "8"
+        },
+        {
+            "Index": "11",
+            "Word": "スカイツリー",
+            "Accent": "スカイツリ￢ー",
+            "Vietnamese": "Skytree (Tokyo)",
+            "Unit": "8"
+        },
+        {
+            "Index": "12",
+            "Word": "せかいいち",
+            "Kanji": "世界一",
+            "Accent": "せか￢いいち",
+            "Vietnamese": "nhất thế giới",
+            "Unit": "8"
+        },
+        {
+            "Index": "13",
+            "Word": "たべます ",
+            "Kanji": "食べます",
+            "Accent": "たべま￢す",
+            "Vietnamese": "ăn",
+            "Unit": "8"
+        },
+        {
+            "Index": "14",
+            "Word": "ちいさい",
+            "Kanji": "小さい",
+            "Accent": "ちいさ￢い",
+            "Vietnamese": "nhỏ",
+            "Unit": "8"
+        },
+        {
+            "Index": "15",
+            "Word": "ちかい",
+            "Accent": "ちか￢い",
+            "Vietnamese": "gần",
+            "Unit": "8"
+        },
+        {
+            "Index": "16",
+            "Word": "てんぷら",
+            "Accent": "てんぷら￣",
+            "Vietnamese": "tempura",
+            "Unit": "8"
+        },
+        {
+            "Index": "17",
+            "Word": "どうぶつ",
+            "Accent": "どうぶつ￣",
+            "Vietnamese": "động vật",
+            "Unit": "8"
+        },
+        {
+            "Index": "18",
+            "Word": "どれ",
+            "Accent": "ど￢れ",
+            "Vietnamese": "cái nào",
+            "Unit": "8"
+        },
+        {
+            "Index": "19",
+            "Word": "のります ",
+            "Accent": "のりま￢す",
+            "Vietnamese": "lên (xe, tàu, thuyền...)",
+            "Unit": "8"
+        },
+        {
+            "Index": "20",
+            "Word": "びじゅつかん",
+            "Accent": "びじゅつ￢かん",
+            "Vietnamese": "bảo tàng mỹ thuật",
+            "Unit": "8"
+        },
+        {
+            "Index": "21",
+            "Word": "ふね",
+            "Accent": "ふ￢ね",
+            "Vietnamese": "thuyền",
+            "Unit": "8"
+        },
+        {
+            "Index": "22",
+            "Word": "まだ",
+            "Accent": "ま￢だ",
+            "Vietnamese": "chưa",
+            "Unit": "8"
+        },
+        {
+            "Index": "23",
+            "Word": "みず",
+            "Kanji": "水",
+            "Accent": "みず￣",
+            "Vietnamese": "nước",
+            "Unit": "8"
+        },
+        {
+            "Index": "24",
+            "Word": "めずらしい",
+            "Accent": "めずらし￢い",
+            "Vietnamese": "lạ thường, hiếm có",
+            "Unit": "8"
+        },
+        {
+            "Index": "25",
+            "Word": "もう",
+            "Accent": "も￢う",
+            "Vietnamese": "đã ~",
+            "Unit": "8"
+        },
+        {
+            "Index": "26",
+            "Word": "もちろん",
+            "Accent": "もち￢ろん",
+            "Vietnamese": "đương nhiên",
+            "Unit": "8"
+        },
+        {
+            "Index": "27",
+            "Word": "やけい",
+            "Accent": "やけい￣",
+            "Vietnamese": "cảnh đêm",
+            "Unit": "8"
+        },
+        {
+            "Index": "28",
+            "Word": "やたい",
+            "Accent": "や￢たい",
+            "Vietnamese": "quầy hàng lưu động, quán vỉa hè",
+            "Unit": "8"
+        },
+        {
+            "Index": "29",
+            "Word": "ラーメン",
+            "Accent": "ラ￢ーメン",
+            "Vietnamese": "mỳ ramen",
+            "Unit": "8"
+        },
+        {
+            "Index": "30",
+            "Word": "ライトアップ",
+            "Accent": "ライトア￢ップ",
+            "Vietnamese": "lên đèn",
+            "Unit": "8"
+        },
+        {
+            "Index": "31",
+            "Word": "りょうがえ",
+            "Accent": "りょうがえ￣",
+            "Vietnamese": "đổi tiền",
+            "Unit": "8"
+        },
+        {
+            "Index": "32",
+            "Word": "れきし",
+            "Accent": "れきし￣",
+            "Vietnamese": "lịch sử",
+            "Unit": "8"
+        }
+    ],
+    "Bài 9": [
+        {
+            "Index": "1",
+            "Word": "アラビアご",
+            "Accent": "アラビアご￣",
+            "Vietnamese": "tiếng Ả Rập",
+            "Unit": "9"
+        },
+        {
+            "Index": "2",
+            "Word": "いいます ",
+            "Kanji": "言います",
+            "Accent": "いいま￢す",
+            "Vietnamese": "nói",
+            "Unit": "9"
+        },
+        {
+            "Index": "3",
+            "Word": "いちど",
+            "Accent": "いちど￢",
+            "Vietnamese": "một lần",
+            "Unit": "9"
+        },
+        {
+            "Index": "4",
+            "Word": "いままでに",
+            "Accent": "いまま￢でに",
+            "Vietnamese": "cho đến bây giờ",
+            "Unit": "9"
+        },
+        {
+            "Index": "5",
+            "Word": "いみ",
+            "Accent": "い￢み",
+            "Vietnamese": "ý nghĩa",
+            "Unit": "9"
+        },
+        {
+            "Index": "6",
+            "Word": "いやあ",
+            "Accent": "―――",
+            "Vietnamese": "À không...",
+            "Unit": "9"
+        },
+        {
+            "Index": "7",
+            "Word": "おしえます ",
+            "Accent": "おしえま￢す",
+            "Vietnamese": "chỉ bảo, hướng dẫn",
+            "Unit": "9"
+        },
+        {
+            "Index": "8",
+            "Word": "おぼえます",
+            "Accent": "おぼえま￢す",
+            "Vietnamese": "nhớ",
+            "Unit": "9"
+        },
+        {
+            "Index": "9",
+            "Word": "がいこく",
+            "Accent": "がいこく￣",
+            "Vietnamese": "nước ngoài",
+            "Unit": "9"
+        },
+        {
+            "Index": "10",
+            "Word": "かきます ",
+            "Kanji": "書きます",
+            "Accent": "かきま￢す",
+            "Vietnamese": "viết",
+            "Unit": "9"
+        },
+        {
+            "Index": "11",
+            "Word": "かします ",
+            "Accent": "かしま￢す",
+            "Vietnamese": "cho mượn",
+            "Unit": "9"
+        },
+        {
+            "Index": "12",
+            "Word": "カタカナ",
+            "Accent": "カタカ￢ナ",
+            "Vietnamese": "katakana",
+            "Unit": "9"
+        },
+        {
+            "Index": "13",
+            "Word": "かんじ",
+            "Accent": "かんじ￣",
+            "Vietnamese": "kanji",
+            "Unit": "9"
+        },
+        {
+            "Index": "14",
+            "Word": "かんたん",
+            "Accent": "かんたん￣",
+            "Vietnamese": "dễ dàng, đơn giản",
+            "Unit": "9"
+        },
+        {
+            "Index": "15",
+            "Word": "こうこう",
+            "Accent": "こうこう￣",
+            "Vietnamese": "trường cấp 3, THPT",
+            "Unit": "9"
+        },
+        {
+            "Index": "16",
+            "Word": "サイト",
+            "Accent": "サイト￣",
+            "Vietnamese": "trang web",
+            "Unit": "9"
+        },
+        {
+            "Index": "17",
+            "Word": "じしょ",
+            "Accent": "じ￢しょ",
+            "Vietnamese": "từ điển",
+            "Unit": "9"
+        },
+        {
+            "Index": "18",
+            "Word": "しょうがっこう",
+            "Accent": "しょうが￢っこう",
+            "Vietnamese": "trường cấp 1, tiểu học",
+            "Unit": "9"
+        },
+        {
+            "Index": "19",
+            "Word": "スペイン",
+            "Accent": "スペ￢イン",
+            "Vietnamese": "Tây Ban Nha",
+            "Unit": "9"
+        },
+        {
+            "Index": "20",
+            "Word": "スペインご",
+            "Accent": "スペインご￣",
+            "Vietnamese": "tiếng Tây Ban Nha",
+            "Unit": "9"
+        },
+        {
+            "Index": "21",
+            "Word": "ぜんぜん",
+            "Accent": "ぜんぜん￣",
+            "Vietnamese": "hoàn toàn không",
+            "Unit": "9"
+        },
+        {
+            "Index": "22",
+            "Word": "その",
+            "Accent": "その￣",
+            "Vietnamese": "cái ~ đó",
+            "Unit": "9"
+        },
+        {
+            "Index": "23",
+            "Word": "だいがく",
+            "Accent": "だいがく￣",
+            "Vietnamese": "đại học",
+            "Unit": "9"
+        },
+        {
+            "Index": "24",
+            "Word": "たんご",
+            "Accent": "たんご￣",
+            "Vietnamese": "từ",
+            "Unit": "9"
+        },
+        {
+            "Index": "25",
+            "Word": "ちがいます ",
+            "Accent": "ちがいま￢す",
+            "Vietnamese": "sai, khác",
+            "Unit": "9"
+        },
+        {
+            "Index": "26",
+            "Word": "ちゅうがっこう",
+            "Accent": "ちゅうが￢っこう",
+            "Vietnamese": "trường cấp 2, THCS",
+            "Unit": "9"
+        },
+        {
+            "Index": "27",
+            "Word": "つかいます ",
+            "Accent": "つかいま￢す",
+            "Vietnamese": "dùng, sử dụng",
+            "Unit": "9"
+        },
+        {
+            "Index": "28",
+            "Word": "でんしじしょ",
+            "Accent": "でんしじ￢しょ",
+            "Vietnamese": "kim từ điển",
+            "Unit": "9"
+        },
+        {
+            "Index": "29",
+            "Word": "ドイツ",
+            "Accent": "ド￢イツ",
+            "Vietnamese": "Đức",
+            "Unit": "9"
+        },
+        {
+            "Index": "30",
+            "Word": "ドイツご",
+            "Accent": "ドイツご￣",
+            "Vietnamese": "tiếng Đức",
+            "Unit": "9"
+        },
+        {
+            "Index": "31",
+            "Word": "どうぞ",
+            "Accent": "ど￢うぞ",
+            "Vietnamese": "xin mời",
+            "Unit": "9"
+        },
+        {
+            "Index": "32",
+            "Word": "なまえ",
+            "Accent": "なまえ￣",
+            "Vietnamese": "tên",
+            "Unit": "9"
+        },
+        {
+            "Index": "33",
+            "Word": "にます",
+            "Accent": "にま￢す",
+            "Vietnamese": "trông giống",
+            "Unit": "9"
+        },
+        {
+            "Index": "34",
+            "Word": "ねん／～ねん",
+            "Kanji": "～年",
+            "Accent": "―――",
+            "Vietnamese": "~ năm",
+            "Unit": "9"
+        },
+        {
+            "Index": "35",
+            "Word": "はつおん",
+            "Accent": "はつおん￣",
+            "Vietnamese": "phát âm",
+            "Unit": "9"
+        },
+        {
+            "Index": "36",
+            "Word": "ひらがな",
+            "Accent": "ひらが￢な",
+            "Vietnamese": "hiragana",
+            "Unit": "9"
+        },
+        {
+            "Index": "37",
+            "Word": "フランス",
+            "Accent": "フランス￣",
+            "Vietnamese": "Pháp",
+            "Unit": "9"
+        },
+        {
+            "Index": "38",
+            "Word": "フランスご",
+            "Accent": "フランスご￣",
+            "Vietnamese": "tiếng Pháp",
+            "Unit": "9"
+        },
+        {
+            "Index": "39",
+            "Word": "ぶん",
+            "Accent": "ぶ￢ん",
+            "Vietnamese": "câu",
+            "Unit": "9"
+        },
+        {
+            "Index": "40",
+            "Word": "ぶんか",
+            "Kanji": "文化",
+            "Accent": "ぶ￢んか",
+            "Vietnamese": "văn hóa",
+            "Unit": "9"
+        },
+        {
+            "Index": "41",
+            "Word": "ぶんぽう",
+            "Accent": "ぶんぽう￣",
+            "Vietnamese": "ngữ pháp",
+            "Unit": "9"
+        },
+        {
+            "Index": "42",
+            "Word": "ほんじつきゅうぎょう",
+            "Kanji": "本日休業",
+            "Accent": "ほ￢んじつきゅうぎょう",
+            "Vietnamese": "hôm nay nghỉ",
+            "Unit": "9"
+        },
+        {
+            "Index": "43",
+            "Word": "むずかしい",
+            "Accent": "むずかしい￣、\r\nむずかし￢い",
+            "Vietnamese": "khó",
+            "Unit": "9"
+        },
+        {
+            "Index": "44",
+            "Word": "もう",
+            "Accent": "もう￣",
+            "Vietnamese": "~ nữa",
+            "Unit": "9"
+        },
+        {
+            "Index": "45",
+            "Word": "もじ",
+            "Accent": "も￢じ",
+            "Vietnamese": "chữ cái",
+            "Unit": "9"
+        },
+        {
+            "Index": "46",
+            "Word": "やすみ",
+            "Kanji": "休み",
+            "Accent": "やすみ￢",
+            "Vietnamese": "ngày nghỉ",
+            "Unit": "9"
+        },
+        {
+            "Index": "47",
+            "Word": "よみます ",
+            "Kanji": "読みます",
+            "Accent": "よみま￢す",
+            "Vietnamese": "đọc",
+            "Unit": "9"
+        },
+        {
+            "Index": "48",
+            "Word": "リスト",
+            "Accent": "リ￢スト",
+            "Vietnamese": "danh sách",
+            "Unit": "9"
+        },
+        {
+            "Index": "49",
+            "Word": "れんしゅう",
+            "Accent": "れんしゅう￣",
+            "Vietnamese": "luyện tập",
+            "Unit": "9"
+        }
+    ],
+    "Bài 10": [
+        {
+            "Index": "1",
+            "Word": "イギリス",
+            "Accent": "イギリス￣",
+            "Vietnamese": "Anh Quốc",
+            "Unit": "10"
+        },
+        {
+            "Index": "2",
+            "Word": "いつか",
+            "Accent": "い￢つか",
+            "Vietnamese": "khi nào đó, một lúc nào đó",
+            "Unit": "10"
+        },
+        {
+            "Index": "3",
+            "Word": "いれます ",
+            "Accent": "いれま￢す",
+            "Vietnamese": "cho vào, để vào",
+            "Unit": "10"
+        },
+        {
+            "Index": "4",
+            "Word": "インド",
+            "Accent": "イ￢ンド",
+            "Vietnamese": "Ấn Độ",
+            "Unit": "10"
+        },
+        {
+            "Index": "5",
+            "Word": "うた",
+            "Accent": "うた￢",
+            "Vietnamese": "bài hát",
+            "Unit": "10"
+        },
+        {
+            "Index": "6",
+            "Word": "おかね（かね）",
+            "Kanji": "お金(金）",
+            "Accent": "おかね￣",
+            "Vietnamese": "tiền",
+            "Unit": "10"
+        },
+        {
+            "Index": "7",
+            "Word": "おどり",
+            "Accent": "おどり￣",
+            "Vietnamese": "điệu múa",
+            "Unit": "10"
+        },
+        {
+            "Index": "8",
+            "Word": "かい／～かい",
+            "Accent": "―――",
+            "Vietnamese": "~ lần",
+            "Unit": "10"
+        },
+        {
+            "Index": "9",
+            "Word": "かぶき",
+            "Accent": "かぶき￣",
+            "Vietnamese": "kịch Kabuki",
+            "Unit": "10"
+        },
+        {
+            "Index": "10",
+            "Word": "かわい／かわいさん",
+            "Accent": "かわい￣／\r\nかわいさん￣",
+            "Vietnamese": "Kawai (tên người)",
+            "Unit": "10"
+        },
+        {
+            "Index": "11",
+            "Word": "かわりに",
+            "Accent": "かわりに￣",
+            "Vietnamese": "thay vào đó",
+            "Unit": "10"
+        },
+        {
+            "Index": "12",
+            "Word": "きっぷ",
+            "Accent": "きっぷ￣",
+            "Vietnamese": "vé",
+            "Unit": "10"
+        },
+        {
+            "Index": "13",
+            "Word": "きょうし",
+            "Accent": "きょ￢うし",
+            "Vietnamese": "giáo viên",
+            "Unit": "10"
+        },
+        {
+            "Index": "14",
+            "Word": "きょうみ",
+            "Accent": "きょ￢うみ",
+            "Vietnamese": "quan tâm, hứng thú",
+            "Unit": "10"
+        },
+        {
+            "Index": "15",
+            "Word": "きょうみが あります",
+            "Accent": "きょ￢うみが ありま￢す",
+            "Vietnamese": "quan tâm đến ~, có hứng thú với ~",
+            "Unit": "10"
+        },
+        {
+            "Index": "16",
+            "Word": "コーナー",
+            "Accent": "コ￢ーナー",
+            "Vietnamese": "góc",
+            "Unit": "10"
+        },
+        {
+            "Index": "17",
+            "Word": "こけし",
+            "Accent": "こけし￣",
+            "Vietnamese": "búp bê kokeshi",
+            "Unit": "10"
+        },
+        {
+            "Index": "18",
+            "Word": "ざっし",
+            "Accent": "ざっし￣",
+            "Vietnamese": "tạp chí",
+            "Unit": "10"
+        },
+        {
+            "Index": "19",
+            "Word": "ししゅう",
+            "Accent": "ししゅう￣",
+            "Vietnamese": "đồ thêu tay",
+            "Unit": "10"
+        },
+        {
+            "Index": "20",
+            "Word": "しゅう",
+            "Accent": "しゅ￢う",
+            "Vietnamese": "tuần",
+            "Unit": "10"
+        },
+        {
+            "Index": "21",
+            "Word": "しゅっちょう",
+            "Accent": "しゅっちょう￣",
+            "Vietnamese": "đi công tác",
+            "Unit": "10"
+        },
+        {
+            "Index": "22",
+            "Word": "しょうらい",
+            "Accent": "しょ￢うらい",
+            "Vietnamese": "tương lai",
+            "Unit": "10"
+        },
+        {
+            "Index": "23",
+            "Word": "ステージ",
+            "Accent": "ステ￢ージ",
+            "Vietnamese": "sân khấu",
+            "Unit": "10"
+        },
+        {
+            "Index": "24",
+            "Word": "せいかつ",
+            "Kanji": "生活",
+            "Accent": "せいかつ￣",
+            "Vietnamese": "cuộc sống",
+            "Unit": "10"
+        },
+        {
+            "Index": "25",
+            "Word": "ソーセージ",
+            "Accent": "ソーセ￢ージ",
+            "Vietnamese": "xúc xích",
+            "Unit": "10"
+        },
+        {
+            "Index": "26",
+            "Word": "タイ",
+            "Accent": "タ￢イ",
+            "Vietnamese": "Thái Lan",
+            "Unit": "10"
+        },
+        {
+            "Index": "27",
+            "Word": "タイじん",
+            "Accent": "タイ￢じん",
+            "Vietnamese": "người Thái Lan",
+            "Unit": "10"
+        },
+        {
+            "Index": "28",
+            "Word": "だいすき",
+            "Accent": "だ￢いすき",
+            "Vietnamese": "rất thích",
+            "Unit": "10"
+        },
+        {
+            "Index": "29",
+            "Word": "タコス",
+            "Accent": "タ￢コス",
+            "Vietnamese": "taco (món ăn Mexico)",
+            "Unit": "10"
+        },
+        {
+            "Index": "30",
+            "Word": "ダンス",
+            "Accent": "ダ￢ンス",
+            "Vietnamese": "điệu nhảy",
+            "Unit": "10"
+        },
+        {
+            "Index": "31",
+            "Word": "ちず",
+            "Accent": "ち￢ず",
+            "Vietnamese": "bản đồ",
+            "Unit": "10"
+        },
+        {
+            "Index": "32",
+            "Word": "チヂミ",
+            "Accent": "チヂミ￣",
+            "Vietnamese": "chizimi (món ăn Hàn Quốc)",
+            "Unit": "10"
+        },
+        {
+            "Index": "33",
+            "Word": "つうやく",
+            "Accent": "つ￢うやく",
+            "Vietnamese": "phiên dịch",
+            "Unit": "10"
+        },
+        {
+            "Index": "34",
+            "Word": "つき",
+            "Kanji": "月",
+            "Accent": "つき￢",
+            "Vietnamese": "tháng",
+            "Unit": "10"
+        },
+        {
+            "Index": "35",
+            "Word": "てつだいます",
+            "Accent": "てつだいま￢す",
+            "Vietnamese": "giúp đỡ",
+            "Unit": "10"
+        },
+        {
+            "Index": "36",
+            "Word": "でんわ",
+            "Kanji": "電話",
+            "Accent": "でんわ￣",
+            "Vietnamese": "điện thoại",
+            "Unit": "10"
+        },
+        {
+            "Index": "37",
+            "Word": "ドイツじん",
+            "Accent": "ドイツ￢じん",
+            "Vietnamese": "người Đức",
+            "Unit": "10"
+        },
+        {
+            "Index": "38",
+            "Word": "ときどき",
+            "Accent": "ときどき￢",
+            "Vietnamese": "thỉnh thoảng",
+            "Unit": "10"
+        },
+        {
+            "Index": "39",
+            "Word": "ドラマ",
+            "Accent": "ド￢ラマ",
+            "Vietnamese": "phim truyền hình dài tập",
+            "Unit": "10"
+        },
+        {
+            "Index": "40",
+            "Word": "なか",
+            "Accent": "な￢か",
+            "Vietnamese": "bên trong",
+            "Unit": "10"
+        },
+        {
+            "Index": "41",
+            "Word": "ならいます ",
+            "Accent": "ならいま￢す",
+            "Vietnamese": "học",
+            "Unit": "10"
+        },
+        {
+            "Index": "42",
+            "Word": "ねん",
+            "Kanji": "年",
+            "Accent": "ね￢ん",
+            "Vietnamese": "năm (thời gian)",
+            "Unit": "10"
+        },
+        {
+            "Index": "43",
+            "Word": "はなし",
+            "Kanji": "話",
+            "Accent": "はなし￢",
+            "Vietnamese": "câu chuyện",
+            "Unit": "10"
+        },
+        {
+            "Index": "44",
+            "Word": "ピロシキ",
+            "Accent": "ピロ￢シキ、ピロシキ￣",
+            "Vietnamese": "piroshki (món ăn Nga)",
+            "Unit": "10"
+        },
+        {
+            "Index": "45",
+            "Word": "フィリピン",
+            "Accent": "フィ￢リピン",
+            "Vietnamese": "Philippines",
+            "Unit": "10"
+        },
+        {
+            "Index": "46",
+            "Word": "ほん",
+            "Accent": "ほ￢ん",
+            "Vietnamese": "sách",
+            "Unit": "10"
+        },
+        {
+            "Index": "47",
+            "Word": "ほんとう",
+            "Accent": "ほんとう￣",
+            "Vietnamese": "thực sự, sự thật",
+            "Unit": "10"
+        },
+        {
+            "Index": "48",
+            "Word": "ほんやく",
+            "Accent": "ほんやく￣",
+            "Vietnamese": "biên dịch",
+            "Unit": "10"
+        },
+        {
+            "Index": "49",
+            "Word": "まず",
+            "Accent": "ま￢ず",
+            "Vietnamese": "đầu tiên",
+            "Unit": "10"
+        },
+        {
+            "Index": "50",
+            "Word": "マレーシア",
+            "Accent": "マレ￢ーシア",
+            "Vietnamese": "Malaysia",
+            "Unit": "10"
+        },
+        {
+            "Index": "51",
+            "Word": "ミニレッスン",
+            "Accent": "ミニレッ￢スン",
+            "Vietnamese": "bài học nhỏ",
+            "Unit": "10"
+        },
+        {
+            "Index": "52",
+            "Word": "みんげいひん",
+            "Kanji": "民芸品",
+            "Accent": "みんげいひん￣",
+            "Vietnamese": "sản phẩm thủ công",
+            "Unit": "10"
+        },
+        {
+            "Index": "53",
+            "Word": "むこう",
+            "Accent": "むこ￢う、むこう￣",
+            "Vietnamese": "đằng kia",
+            "Unit": "10"
+        },
+        {
+            "Index": "54",
+            "Word": "ムルタバ",
+            "Accent": "ムルタバ￣",
+            "Vietnamese": "murtabak ( món ăn Ai Cập)",
+            "Unit": "10"
+        },
+        {
+            "Index": "55",
+            "Word": "メキシコ",
+            "Accent": "メキシコ￣",
+            "Vietnamese": "Mexico",
+            "Unit": "10"
+        },
+        {
+            "Index": "56",
+            "Word": "よよぎ",
+            "Kanji": "代々木",
+            "Accent": "よよぎ￣",
+            "Vietnamese": "Yoyogi",
+            "Unit": "10"
+        },
+        {
+            "Index": "58",
+            "Word": "ロシア",
+            "Accent": "ロ￢シア",
+            "Vietnamese": "Nga",
+            "Unit": "10"
+        }
+    ],
+    "Bài 11": [
+        {
+            "Index": "1",
+            "Word": "あか",
+            "Accent": "あ￢か",
+            "Vietnamese": "màu đỏ",
+            "Unit": "11"
+        },
+        {
+            "Index": "2",
+            "Word": "おさけ",
+            "Accent": "おさけ￣",
+            "Vietnamese": "rượu, đồ uống có cồn",
+            "Unit": "11"
+        },
+        {
+            "Index": "3",
+            "Word": "おちゃ",
+            "Accent": "おちゃ￣",
+            "Vietnamese": "trà",
+            "Unit": "11"
+        },
+        {
+            "Index": "4",
+            "Word": "おにぎり",
+            "Accent": "おに￢ぎり",
+            "Vietnamese": "cơm nắm",
+            "Unit": "11"
+        },
+        {
+            "Index": "5",
+            "Word": "おねがいします",
+            "Accent": "おねがいしま￢す",
+            "Vietnamese": "Mong anh/chị giúp đỡ.",
+            "Unit": "11"
+        },
+        {
+            "Index": "6",
+            "Word": "おべんとう",
+            "Accent": "おべんとう￣",
+            "Vietnamese": "cơm hộp",
+            "Unit": "11"
+        },
+        {
+            "Index": "7",
+            "Word": "からあげ",
+            "Accent": "からあげ￣",
+            "Vietnamese": "gà rán",
+            "Unit": "11"
+        },
+        {
+            "Index": "8",
+            "Word": "ケーキ",
+            "Accent": "ケ￢ーキ",
+            "Vietnamese": "bánh bông lan",
+            "Unit": "11"
+        },
+        {
+            "Index": "9",
+            "Word": "コップ",
+            "Accent": "コップ￣",
+            "Vietnamese": "cốc",
+            "Unit": "11"
+        },
+        {
+            "Index": "10",
+            "Word": "ごみぶくろ",
+            "Accent": "ごみぶ￢くろ",
+            "Vietnamese": "túi đựng rác",
+            "Unit": "11"
+        },
+        {
+            "Index": "11",
+            "Word": "さら",
+            "Accent": "さら￣",
+            "Vietnamese": "đĩa",
+            "Unit": "11"
+        },
+        {
+            "Index": "12",
+            "Word": "サラダ",
+            "Accent": "サ￢ラダ",
+            "Vietnamese": "sa lát",
+            "Unit": "11"
+        },
+        {
+            "Index": "13",
+            "Word": "サンドイッチ",
+            "Accent": "サンドイ￢ッチ",
+            "Vietnamese": "xăng-uých",
+            "Unit": "11"
+        },
+        {
+            "Index": "14",
+            "Word": "シート",
+            "Accent": "シ￢ート",
+            "Vietnamese": "thảm picnic",
+            "Unit": "11"
+        },
+        {
+            "Index": "15",
+            "Word": "します",
+            "Accent": "しま￢す",
+            "Vietnamese": "quyết định, chọn lựa",
+            "Unit": "11"
+        },
+        {
+            "Index": "16",
+            "Word": "ジュース",
+            "Accent": "ジュ￢ース",
+            "Vietnamese": "nước hoa quả",
+            "Unit": "11"
+        },
+        {
+            "Index": "17",
+            "Word": "しろ",
+            "Accent": "し￢ろ",
+            "Vietnamese": "màu trắng",
+            "Unit": "11"
+        },
+        {
+            "Index": "18",
+            "Word": "そと",
+            "Accent": "そ￢と",
+            "Vietnamese": "bên ngoài",
+            "Unit": "11"
+        },
+        {
+            "Index": "19",
+            "Word": "たまごやき",
+            "Kanji": "卵やき",
+            "Accent": "たまごやき￣",
+            "Vietnamese": "trứng rán",
+            "Unit": "11"
+        },
+        {
+            "Index": "20",
+            "Word": "チョコレート",
+            "Accent": "チョコレ￢ート",
+            "Vietnamese": "sô-cô-la",
+            "Unit": "11"
+        },
+        {
+            "Index": "21",
+            "Word": "どっち",
+            "Accent": "ど￢っち",
+            "Vietnamese": "cái nào, phía nào (dạng thân mật của どちら)",
+            "Unit": "11"
+        },
+        {
+            "Index": "22",
+            "Word": "にほんしゅ",
+            "Accent": "にほんしゅ￣",
+            "Vietnamese": "rượu Nhật",
+            "Unit": "11"
+        },
+        {
+            "Index": "23",
+            "Word": "のみもの",
+            "Kanji": "飲みもの",
+            "Accent": "のみ￢もの",
+            "Vietnamese": "đồ uống",
+            "Unit": "11"
+        },
+        {
+            "Index": "24",
+            "Word": "はし",
+            "Accent": "は￢し",
+            "Vietnamese": "đũa",
+            "Unit": "11"
+        },
+        {
+            "Index": "25",
+            "Word": "バナナ",
+            "Accent": "バ￢ナナ",
+            "Vietnamese": "chuối",
+            "Unit": "11"
+        },
+        {
+            "Index": "26",
+            "Word": "ビール",
+            "Accent": "ビ￢ール",
+            "Vietnamese": "bia",
+            "Unit": "11"
+        },
+        {
+            "Index": "27",
+            "Word": "ピクニック",
+            "Accent": "ピ￢クニック",
+            "Vietnamese": "picnic",
+            "Unit": "11"
+        },
+        {
+            "Index": "28",
+            "Word": "ほか",
+            "Accent": "ほか￣",
+            "Vietnamese": "ngoài ra",
+            "Unit": "11"
+        },
+        {
+            "Index": "29",
+            "Word": "ポテトチップス",
+            "Accent": "ポテトチ￢ップス",
+            "Vietnamese": "khoai tây chiên thái lát mỏng",
+            "Unit": "11"
+        },
+        {
+            "Index": "30",
+            "Word": "メモ",
+            "Accent": "メ￢モ",
+            "Vietnamese": "ghi chú",
+            "Unit": "11"
+        },
+        {
+            "Index": "31",
+            "Word": "もちます ",
+            "Accent": "もちま￢す",
+            "Vietnamese": "cầm, mang, xách",
+            "Unit": "11"
+        },
+        {
+            "Index": "32",
+            "Word": "もっていきます ",
+            "Accent": "もっていきま￢す",
+            "Vietnamese": "mang đi",
+            "Unit": "11"
+        },
+        {
+            "Index": "33",
+            "Word": "もの",
+            "Accent": "もの￢",
+            "Vietnamese": "đồ vật",
+            "Unit": "11"
+        },
+        {
+            "Index": "34",
+            "Word": "やぎ／やぎさん",
+            "Kanji": "八木／八木さん",
+            "Accent": "やぎ￣／やぎさん￣",
+            "Vietnamese": "Yagi (tên người)",
+            "Unit": "11"
+        },
+        {
+            "Index": "35",
+            "Word": "らいしゅう",
+            "Accent": "らいしゅう￣",
+            "Vietnamese": "tuần tới",
+            "Unit": "11"
+        },
+        {
+            "Index": "36",
+            "Word": "りんご",
+            "Accent": "りんご￣",
+            "Vietnamese": "táo",
+            "Unit": "11"
+        },
+        {
+            "Index": "37",
+            "Word": "ワイン",
+            "Accent": "ワ￢イン",
+            "Vietnamese": "rượu vang",
+            "Unit": "11"
+        }
+    ],
+    "Bài 12": [
+        {
+            "Index": "1",
+            "Word": "あじ",
+            "Accent": "あじ￣",
+            "Vietnamese": "vị",
+            "Unit": "12"
+        },
+        {
+            "Index": "2",
+            "Word": "あまい",
+            "Accent": "あまい￣、あま￢い",
+            "Vietnamese": "ngọt",
+            "Unit": "12"
+        },
+        {
+            "Index": "3",
+            "Word": "アンチョビ",
+            "Accent": "アンチ￢ョビ",
+            "Vietnamese": "cá cơm",
+            "Unit": "12"
+        },
+        {
+            "Index": "4",
+            "Word": "いただきます",
+            "Accent": "いただきま￢す",
+            "Vietnamese": "Tôi xin phép dùng bữa.",
+            "Unit": "12"
+        },
+        {
+            "Index": "5",
+            "Word": "いっぱい",
+            "Accent": "い￢っぱい",
+            "Vietnamese": "đầy",
+            "Unit": "12"
+        },
+        {
+            "Index": "6",
+            "Word": "いっぱい",
+            "Accent": "いっぱい￣",
+            "Vietnamese": "no (bụng)",
+            "Unit": "12"
+        },
+        {
+            "Index": "7",
+            "Word": "うめぼし",
+            "Accent": "うめぼし￣",
+            "Vietnamese": "mơ muối",
+            "Unit": "12"
+        },
+        {
+            "Index": "8",
+            "Word": "えび",
+            "Accent": "えび￣",
+            "Vietnamese": "tôm",
+            "Unit": "12"
+        },
+        {
+            "Index": "9",
+            "Word": "えびせんべい",
+            "Accent": "えびせ￢んべい",
+            "Vietnamese": "bánh gạo vị tôm",
+            "Unit": "12"
+        },
+        {
+            "Index": "10",
+            "Word": "おなか",
+            "Accent": "おなか￣",
+            "Vietnamese": "bụng",
+            "Unit": "12"
+        },
+        {
+            "Index": "11",
+            "Word": "からい",
+            "Accent": "から￢い",
+            "Vietnamese": "cay",
+            "Unit": "12"
+        },
+        {
+            "Index": "12",
+            "Word": "キムチ",
+            "Accent": "キ￢ムチ",
+            "Vietnamese": "kimchi (món ăn Hàn Quốc)",
+            "Unit": "12"
+        },
+        {
+            "Index": "13",
+            "Word": "きゅうり",
+            "Accent": "きゅ￢うり",
+            "Vietnamese": "dưa chuột",
+            "Unit": "12"
+        },
+        {
+            "Index": "14",
+            "Word": "キンパ",
+            "Accent": "キ￢ンパ",
+            "Vietnamese": "kimbap (món ăn Hàn Quốc)",
+            "Unit": "12"
+        },
+        {
+            "Index": "15",
+            "Word": "クロッポ",
+            "Accent": "ク￢ロッポ",
+            "Vietnamese": "bánh chiên phồng vị cá (món ăn Malaysia)",
+            "Unit": "12"
+        },
+        {
+            "Index": "16",
+            "Word": "けっこう",
+            "Accent": "け￢っこう",
+            "Vietnamese": "đủ rồi",
+            "Unit": "12"
+        },
+        {
+            "Index": "17",
+            "Word": "こんぶ",
+            "Accent": "こ￢んぶ",
+            "Vietnamese": "tảo bẹ",
+            "Unit": "12"
+        },
+        {
+            "Index": "18",
+            "Word": "しゃけ／さけ",
+            "Accent": "しゃ￢け／さ￢け",
+            "Vietnamese": "cá hồi",
+            "Unit": "12"
+        },
+        {
+            "Index": "19",
+            "Word": "しょっぱい",
+            "Accent": "しょっぱ￢い",
+            "Vietnamese": "mặn",
+            "Unit": "12"
+        },
+        {
+            "Index": "20",
+            "Word": "スープ",
+            "Accent": "ス￢ープ",
+            "Vietnamese": "canh, súp",
+            "Unit": "12"
+        },
+        {
+            "Index": "21",
+            "Word": "すっぱい",
+            "Accent": "すっぱ￢い",
+            "Vietnamese": "chua",
+            "Unit": "12"
+        },
+        {
+            "Index": "22",
+            "Word": "それ",
+            "Accent": "それ￣",
+            "Vietnamese": "cái đó",
+            "Unit": "12"
+        },
+        {
+            "Index": "23",
+            "Word": "たまご",
+            "Kanji": "卵",
+            "Accent": "たま￢ご",
+            "Vietnamese": "trứng",
+            "Unit": "12"
+        },
+        {
+            "Index": "24",
+            "Word": "チーズ",
+            "Accent": "チ￢ーズ",
+            "Vietnamese": "phô-mai",
+            "Unit": "12"
+        },
+        {
+            "Index": "25",
+            "Word": "つけもの",
+            "Accent": "つけもの￣",
+            "Vietnamese": "đồ muối chua",
+            "Unit": "12"
+        },
+        {
+            "Index": "26",
+            "Word": "ツナ",
+            "Accent": "ツ￢ナ",
+            "Vietnamese": "cá ngừ",
+            "Unit": "12"
+        },
+        {
+            "Index": "27",
+            "Word": "でも",
+            "Accent": "で￢も",
+            "Vietnamese": "nhưng",
+            "Unit": "12"
+        },
+        {
+            "Index": "28",
+            "Word": "トマト",
+            "Accent": "ト￢マト",
+            "Vietnamese": "cà chua",
+            "Unit": "12"
+        },
+        {
+            "Index": "29",
+            "Word": "ハム",
+            "Accent": "ハ￢ム",
+            "Vietnamese": "thịt hun khói",
+            "Unit": "12"
+        },
+        {
+            "Index": "30",
+            "Word": "ピクルス",
+            "Accent": "ピ￢クルス",
+            "Vietnamese": "đồ ngâm dấm, dưa góp",
+            "Unit": "12"
+        },
+        {
+            "Index": "31",
+            "Word": "ほんとに",
+            "Accent": "ほんとに￣",
+            "Vietnamese": "thực sự",
+            "Unit": "12"
+        },
+        {
+            "Index": "32",
+            "Word": "まんじゅう",
+            "Accent": "まんじゅ￢う",
+            "Vietnamese": "bánh bao nhân ngọt",
+            "Unit": "12"
+        },
+        {
+            "Index": "33",
+            "Word": "よかったら",
+            "Accent": "よ￢かったら",
+            "Vietnamese": "nếu được thì..., nếu không chê thì…",
+            "Unit": "12"
+        },
+        {
+            "Index": "34",
+            "Word": "レモン",
+            "Accent": "レ￢モン",
+            "Vietnamese": "chanh",
+            "Unit": "12"
+        },
+        {
+            "Index": "35",
+            "Word": "わさび",
+            "Accent": "わ￢さび",
+            "Vietnamese": "wasabi (mù tạt)",
+            "Unit": "12"
+        }
+    ],
+    "Bài 13": [
+        {
+            "Index": "1",
+            "Word": "あいます ",
+            "Kanji": "会います",
+            "Accent": "あいま￢す",
+            "Vietnamese": "gặp",
+            "Unit": "13"
+        },
+        {
+            "Index": "2",
+            "Word": "あたらしい",
+            "Kanji": "新しい",
+            "Accent": "あたらし￢い",
+            "Vietnamese": "mới",
+            "Unit": "13"
+        },
+        {
+            "Index": "3",
+            "Word": "いかが",
+            "Accent": "いか￢が",
+            "Vietnamese": "thế nào (lịch sự hơn どう)",
+            "Unit": "13"
+        },
+        {
+            "Index": "4",
+            "Word": "オーケー",
+            "Accent": "お￢ーけー",
+            "Vietnamese": "Ô-kê",
+            "Unit": "13"
+        },
+        {
+            "Index": "5",
+            "Word": "おつかれさま",
+            "Accent": "おつかれさま￣",
+            "Vietnamese": "Anh chị đã vất vả rồi.",
+            "Unit": "13"
+        },
+        {
+            "Index": "6",
+            "Word": "オフィス",
+            "Accent": "オ￢フィス",
+            "Vietnamese": "văn phòng",
+            "Unit": "13"
+        },
+        {
+            "Index": "7",
+            "Word": "おゆ（ゆ）",
+            "Accent": "おゆ￣",
+            "Vietnamese": "nước nóng",
+            "Unit": "13"
+        },
+        {
+            "Index": "8",
+            "Word": "か（かようび）",
+            "Kanji": "火",
+            "Accent": "か￢",
+            "Vietnamese": "thứ ba",
+            "Unit": "13"
+        },
+        {
+            "Index": "9",
+            "Word": "かいぎ",
+            "Kanji": "会議",
+            "Accent": "か￢いぎ",
+            "Vietnamese": "hội nghị, cuộc họp",
+            "Unit": "13"
+        },
+        {
+            "Index": "10",
+            "Word": "かいてき",
+            "Accent": "かいてき￣",
+            "Vietnamese": "hài lòng, thoải mái",
+            "Unit": "13"
+        },
+        {
+            "Index": "11",
+            "Word": "かぎ",
+            "Accent": "かぎ￢",
+            "Vietnamese": "chìa khóa",
+            "Unit": "13"
+        },
+        {
+            "Index": "12",
+            "Word": "くうこう",
+            "Kanji": "空港",
+            "Accent": "くうこう￣",
+            "Vietnamese": "sân bay",
+            "Unit": "13"
+        },
+        {
+            "Index": "13",
+            "Word": "げつ（げつようび）",
+            "Kanji": "月",
+            "Accent": "げ￢つ",
+            "Vietnamese": "thứ hai",
+            "Unit": "13"
+        },
+        {
+            "Index": "14",
+            "Word": "ごう／～ごう",
+            "Kanji": "～号",
+            "Accent": "～￢ごう",
+            "Vietnamese": "số ～",
+            "Unit": "13"
+        },
+        {
+            "Index": "15",
+            "Word": "こうじょう",
+            "Kanji": "工場",
+            "Accent": "こうじょ￢う",
+            "Vietnamese": "nhà máy",
+            "Unit": "13"
+        },
+        {
+            "Index": "16",
+            "Word": "さいとう／さいとうさん",
+            "Accent": "さいとう￣／\r\nさいとうさん￣",
+            "Vietnamese": "Saito (tên người)",
+            "Unit": "13"
+        },
+        {
+            "Index": "17",
+            "Word": "さま／～さま",
+            "Kanji": "～様",
+            "Accent": "―――",
+            "Vietnamese": "ngài ～",
+            "Unit": "13"
+        },
+        {
+            "Index": "18",
+            "Word": "じさ",
+            "Accent": "じ￢さ",
+            "Vietnamese": "chênh lệch múi giờ",
+            "Unit": "13"
+        },
+        {
+            "Index": "19",
+            "Word": "ししゃ",
+            "Accent": "し￢しゃ",
+            "Vietnamese": "chi nhánh, công ty con",
+            "Unit": "13"
+        },
+        {
+            "Index": "20",
+            "Word": "シャワー",
+            "Accent": "シャ￢ワー",
+            "Vietnamese": "vòi hoa sen",
+            "Unit": "13"
+        },
+        {
+            "Index": "21",
+            "Word": "じゅうよっか",
+            "Kanji": "十四日",
+            "Accent": "じゅ￢うよっか",
+            "Vietnamese": "ngày 14",
+            "Unit": "13"
+        },
+        {
+            "Index": "22",
+            "Word": "しゅっぱつ",
+            "Kanji": "出発",
+            "Accent": "しゅっぱつ￣",
+            "Vietnamese": "xuất phát",
+            "Unit": "13"
+        },
+        {
+            "Index": "23",
+            "Word": "しります ",
+            "Accent": "しりま￢す",
+            "Vietnamese": "biết",
+            "Unit": "13"
+        },
+        {
+            "Index": "24",
+            "Word": "しんいち／しんいちさん",
+            "Kanji": "新一／新一さん",
+            "Accent": "しんいち￣／\r\nしんいちさん￣",
+            "Vietnamese": "Shinichi (tên người)",
+            "Unit": "13"
+        },
+        {
+            "Index": "25",
+            "Word": "すい（すいようび）",
+            "Kanji": "水",
+            "Accent": "す￢い",
+            "Vietnamese": "thứ tư",
+            "Unit": "13"
+        },
+        {
+            "Index": "26",
+            "Word": "すきます ",
+            "Accent": "すきま￢す",
+            "Vietnamese": "vắng vẻ",
+            "Unit": "13"
+        },
+        {
+            "Index": "27",
+            "Word": "スケジュール",
+            "Accent": "スケ￢ジュール、\r\nスケジュ￢ール",
+            "Vietnamese": "lịch trình, kế hoạch",
+            "Unit": "13"
+        },
+        {
+            "Index": "28",
+            "Word": "ずっと",
+            "Accent": "ずっと￣",
+            "Vietnamese": "suốt",
+            "Unit": "13"
+        },
+        {
+            "Index": "29",
+            "Word": "だい～",
+            "Kanji": "第～",
+            "Accent": "だ￢い～",
+            "Vietnamese": "thứ ～",
+            "Unit": "13"
+        },
+        {
+            "Index": "30",
+            "Word": "チェック",
+            "Accent": "チェッ￢ク",
+            "Vietnamese": "kiểm tra",
+            "Unit": "13"
+        },
+        {
+            "Index": "31",
+            "Word": "つかれます ",
+            "Accent": "つかれま￢す",
+            "Vietnamese": "mệt",
+            "Unit": "13"
+        },
+        {
+            "Index": "32",
+            "Word": "つきます ",
+            "Accent": "つきま￢す",
+            "Vietnamese": "đến nơi",
+            "Unit": "13"
+        },
+        {
+            "Index": "33",
+            "Word": "でます",
+            "Accent": "でま￢す",
+            "Vietnamese": "ra",
+            "Unit": "13"
+        },
+        {
+            "Index": "34",
+            "Word": "でむかえ",
+            "Accent": "でむかえ￣",
+            "Vietnamese": "ra đón",
+            "Unit": "13"
+        },
+        {
+            "Index": "35",
+            "Word": "でんき",
+            "Accent": "で￢んき",
+            "Vietnamese": "điện, đèn điện, bóng điện",
+            "Unit": "13"
+        },
+        {
+            "Index": "36",
+            "Word": "でんわばんごう",
+            "Kanji": "電話番号",
+            "Accent": "でんわば￢んごう",
+            "Vietnamese": "số điện thoại",
+            "Unit": "13"
+        },
+        {
+            "Index": "37",
+            "Word": "とうちゃく",
+            "Kanji": "到着",
+            "Accent": "とうちゃく￣",
+            "Vietnamese": "đến nơi",
+            "Unit": "13"
+        },
+        {
+            "Index": "38",
+            "Word": "とおか",
+            "Kanji": "十日",
+            "Accent": "とおか￣",
+            "Vietnamese": "mùng 10",
+            "Unit": "13"
+        },
+        {
+            "Index": "39",
+            "Word": "ドライバー",
+            "Accent": "ドライバー￣",
+            "Vietnamese": "tài xế",
+            "Unit": "13"
+        },
+        {
+            "Index": "40",
+            "Word": "ながい",
+            "Accent": "なが￢い",
+            "Vietnamese": "dài",
+            "Unit": "13"
+        },
+        {
+            "Index": "41",
+            "Word": "なし（ない）",
+            "Accent": "な￢し",
+            "Vietnamese": "không",
+            "Unit": "13"
+        },
+        {
+            "Index": "42",
+            "Word": "にじゅうよっか",
+            "Kanji": "二十四日",
+            "Accent": "にじゅうよっか￣",
+            "Vietnamese": "ngày 24",
+            "Unit": "13"
+        },
+        {
+            "Index": "43",
+            "Word": "にち／～にち",
+            "Kanji": "～日",
+            "Accent": "―――",
+            "Vietnamese": "ngày ～",
+            "Unit": "13"
+        },
+        {
+            "Index": "44",
+            "Word": "はつか",
+            "Kanji": "二十日",
+            "Accent": "はつか￣",
+            "Vietnamese": "ngày 20",
+            "Unit": "13"
+        },
+        {
+            "Index": "45",
+            "Word": "はん／～はん",
+            "Kanji": "～半",
+            "Accent": "～は￢ん",
+            "Vietnamese": "～rưỡi",
+            "Unit": "13"
+        },
+        {
+            "Index": "46",
+            "Word": "ばんごう",
+            "Kanji": "番号",
+            "Accent": "ばんご￢う",
+            "Vietnamese": "số",
+            "Unit": "13"
+        },
+        {
+            "Index": "47",
+            "Word": "ひる",
+            "Accent": "ひる￢",
+            "Vietnamese": "buổi trưa",
+            "Unit": "13"
+        },
+        {
+            "Index": "48",
+            "Word": "びん",
+            "Accent": "び￢ん",
+            "Vietnamese": "chuyến bay",
+            "Unit": "13"
+        },
+        {
+            "Index": "49",
+            "Word": "フライト",
+            "Accent": "フライト￣",
+            "Vietnamese": "chuyến bay",
+            "Unit": "13"
+        },
+        {
+            "Index": "50",
+            "Word": "ほん／～ほん／ぼん／ぽん",
+            "Accent": "―――",
+            "Vietnamese": "~ cây (đếm vật thon dài)",
+            "Unit": "13"
+        },
+        {
+            "Index": "51",
+            "Word": "ほんしゃ",
+            "Accent": "ほ￢んしゃ",
+            "Vietnamese": "trụ sở chính, công ty mẹ",
+            "Unit": "13"
+        },
+        {
+            "Index": "52",
+            "Word": "まあまあ（な）",
+            "Accent": "まあま￢あ、ま￢あまあ",
+            "Vietnamese": "bình thường",
+            "Unit": "13"
+        },
+        {
+            "Index": "53",
+            "Word": "むかえます ",
+            "Accent": "むかえま￢す",
+            "Vietnamese": "đón",
+            "Unit": "13"
+        },
+        {
+            "Index": "54",
+            "Word": "メール",
+            "Accent": "メール￣",
+            "Vietnamese": "thư điện tử, email",
+            "Unit": "13"
+        },
+        {
+            "Index": "55",
+            "Word": "モーターズ",
+            "Accent": "モ￢ーターズ",
+            "Vietnamese": "công ty ô tô (Motors)",
+            "Unit": "13"
+        },
+        {
+            "Index": "56",
+            "Word": "もらいます ",
+            "Accent": "もんだい￣",
+            "Vietnamese": "nhận",
+            "Unit": "13"
+        },
+        {
+            "Index": "57",
+            "Word": "もんだい",
+            "Accent": "もんだい￣",
+            "Vietnamese": "vấn đề",
+            "Unit": "13"
+        },
+        {
+            "Index": "58",
+            "Word": "やすみます ",
+            "Kanji": "休みます",
+            "Accent": "やすみま￢す",
+            "Vietnamese": "nghỉ",
+            "Unit": "13"
+        },
+        {
+            "Index": "59",
+            "Word": "ようこそ",
+            "Accent": "よ￢うこそ",
+            "Vietnamese": "Hân hạnh chào đón! Hoan nghênh!",
+            "Unit": "13"
+        },
+        {
+            "Index": "60",
+            "Word": "ローマ",
+            "Accent": "ロ￢ーマ",
+            "Vietnamese": "Rome",
+            "Unit": "13"
+        }
+    ],
+    "Bài 14": [
+        {
+            "Index": "1",
+            "Word": "うけつけ",
+            "Accent": "うけつけ￣",
+            "Vietnamese": "lễ tân",
+            "Unit": "14"
+        },
+        {
+            "Index": "2",
+            "Word": "おせわ（せわ）",
+            "Accent": "おせ￢わ",
+            "Vietnamese": "chăm sóc, giúp đỡ",
+            "Unit": "14"
+        },
+        {
+            "Index": "3",
+            "Word": "かります ",
+            "Accent": "かりま￢す",
+            "Vietnamese": "mượn",
+            "Unit": "14"
+        },
+        {
+            "Index": "4",
+            "Word": "こくさいでんわ\r\n",
+            "Accent": "こくさいで￢んわ",
+            "Vietnamese": "điện thoại quốc tế",
+            "Unit": "14"
+        },
+        {
+            "Index": "5",
+            "Word": "こちら",
+            "Accent": "こちら￣",
+            "Vietnamese": "phía đằng này (lịch sự hơn ここ)",
+            "Unit": "14"
+        },
+        {
+            "Index": "6",
+            "Word": "こちらこそ",
+            "Accent": "こちらこ￢そ",
+            "Vietnamese": "Chính tôi mới là người phải nói như vậy.",
+            "Unit": "14"
+        },
+        {
+            "Index": "7",
+            "Word": "コピー",
+            "Accent": "コ￢ピー",
+            "Vietnamese": "photocopy",
+            "Unit": "14"
+        },
+        {
+            "Index": "8",
+            "Word": "コピーき",
+            "Accent": "コピ￢ーき",
+            "Vietnamese": "máy photocopy",
+            "Unit": "14"
+        },
+        {
+            "Index": "9",
+            "Word": "これ",
+            "Accent": "これ￣",
+            "Vietnamese": "cái này",
+            "Unit": "14"
+        },
+        {
+            "Index": "10",
+            "Word": "こわれます",
+            "Accent": "こわれま￢す",
+            "Vietnamese": "hỏng",
+            "Unit": "14"
+        },
+        {
+            "Index": "11",
+            "Word": "コンピューター",
+            "Accent": "コンピュ￢ーター",
+            "Vietnamese": "máy vi tính",
+            "Unit": "14"
+        },
+        {
+            "Index": "12",
+            "Word": "じぶん",
+            "Accent": "じぶん￣",
+            "Vietnamese": "bản thân mình",
+            "Unit": "14"
+        },
+        {
+            "Index": "13",
+            "Word": "じむ",
+            "Accent": "じ￢む",
+            "Vietnamese": "công việc văn phòng",
+            "Unit": "14"
+        },
+        {
+            "Index": "14",
+            "Word": "しゃちょう",
+            "Accent": "しゃちょう￣",
+            "Vietnamese": "giám đốc",
+            "Unit": "14"
+        },
+        {
+            "Index": "15",
+            "Word": "スタッフ",
+            "Accent": "スタ￢ッフ",
+            "Vietnamese": "nhân viên",
+            "Unit": "14"
+        },
+        {
+            "Index": "16",
+            "Word": "それじゃあ／それでは",
+            "Accent": "それじゃ￢あ／\r\nそれで￢は",
+            "Vietnamese": "Gặp lại sau nhé!",
+            "Unit": "14"
+        },
+        {
+            "Index": "17",
+            "Word": "ちゅう／～ちゅう",
+            "Kanji": "～中",
+            "Accent": "～ちゅう￣",
+            "Vietnamese": "đang ~",
+            "Unit": "14"
+        },
+        {
+            "Index": "18",
+            "Word": "つたえます ",
+            "Accent": "つたえま￢す",
+            "Vietnamese": "chuyển lời",
+            "Unit": "14"
+        },
+        {
+            "Index": "19",
+            "Word": "パソコン",
+            "Accent": "パソコン￣",
+            "Vietnamese": "máy tính cá nhân",
+            "Unit": "14"
+        },
+        {
+            "Index": "20",
+            "Word": "ひしょ",
+            "Accent": "ひ￢しょ",
+            "Vietnamese": "thư ký",
+            "Unit": "14"
+        },
+        {
+            "Index": "21",
+            "Word": "ファックス",
+            "Accent": "ファ￢ックス",
+            "Vietnamese": "máy fax",
+            "Unit": "14"
+        },
+        {
+            "Index": "22",
+            "Word": "プリントアウト",
+            "Accent": "プリントア￢ウト",
+            "Vietnamese": "in ra",
+            "Unit": "14"
+        },
+        {
+            "Index": "23",
+            "Word": "ぺらぺら（な）",
+            "Accent": "ぺらぺら￣",
+            "Vietnamese": "làu làu, lưu loát",
+            "Unit": "14"
+        },
+        {
+            "Index": "24",
+            "Word": "ペン",
+            "Accent": "ペ￢ン",
+            "Vietnamese": "bút",
+            "Unit": "14"
+        },
+        {
+            "Index": "25",
+            "Word": "みおくり",
+            "Accent": "みおくり￣",
+            "Vietnamese": "tiễn",
+            "Unit": "14"
+        },
+        {
+            "Index": "26",
+            "Word": "みなさん",
+            "Accent": "みな￢さん",
+            "Vietnamese": "mọi người, các bạn",
+            "Unit": "14"
+        },
+        {
+            "Index": "27",
+            "Word": "よろしく",
+            "Accent": "よろしく￣",
+            "Vietnamese": "Rất hân hạnh!",
+            "Unit": "14"
+        },
+        {
+            "Index": "28",
+            "Word": "らいげつ",
+            "Kanji": "来月",
+            "Accent": "ら￢いげつ",
+            "Vietnamese": "tháng sau",
+            "Unit": "14"
+        }
+    ],
+    "Bài 15": [
+        {
+            "Index": "1",
+            "Word": "あげます ",
+            "Accent": "あげま￢す",
+            "Vietnamese": "nâng lên, giơ lên",
+            "Unit": "15"
+        },
+        {
+            "Index": "2",
+            "Word": "あし",
+            "Accent": "あし￢",
+            "Vietnamese": "chân",
+            "Unit": "15"
+        },
+        {
+            "Index": "3",
+            "Word": "あたま",
+            "Accent": "あたま￢",
+            "Vietnamese": "đầu",
+            "Unit": "15"
+        },
+        {
+            "Index": "4",
+            "Word": "あまり",
+            "Accent": "あまり￣",
+            "Vietnamese": "không ~ lắm",
+            "Unit": "15"
+        },
+        {
+            "Index": "5",
+            "Word": "いき",
+            "Accent": "い￢き",
+            "Vietnamese": "hơi thở",
+            "Unit": "15"
+        },
+        {
+            "Index": "6",
+            "Word": "いそがしい",
+            "Accent": "いそがし￢い",
+            "Vietnamese": "bận",
+            "Unit": "15"
+        },
+        {
+            "Index": "7",
+            "Word": "いたい",
+            "Accent": "いた￢い",
+            "Vietnamese": "đau",
+            "Unit": "15"
+        },
+        {
+            "Index": "8",
+            "Word": "う",
+            "Accent": "―――",
+            "Vietnamese": "Ự!",
+            "Unit": "15"
+        },
+        {
+            "Index": "9",
+            "Word": "うえ",
+            "Accent": "うえ￣、うえ￢",
+            "Vietnamese": "phía trên",
+            "Unit": "15"
+        },
+        {
+            "Index": "10",
+            "Word": "うで",
+            "Accent": "うで￢",
+            "Vietnamese": "cánh tay",
+            "Unit": "15"
+        },
+        {
+            "Index": "11",
+            "Word": "おおきく（おおきい）",
+            "Kanji": "大きく（大きい）",
+            "Accent": "お￢おきく、おおき￢く",
+            "Vietnamese": "to lớn",
+            "Unit": "15"
+        },
+        {
+            "Index": "12",
+            "Word": "おふろ（ふろ）",
+            "Accent": "おふ￢ろ",
+            "Vietnamese": "bồn tắm",
+            "Unit": "15"
+        },
+        {
+            "Index": "13",
+            "Word": "おわり",
+            "Accent": "おわり￣",
+            "Vietnamese": "kết thúc, hết",
+            "Unit": "15"
+        },
+        {
+            "Index": "14",
+            "Word": "かお",
+            "Accent": "かお￣",
+            "Vietnamese": "mặt",
+            "Unit": "15"
+        },
+        {
+            "Index": "15",
+            "Word": "かた",
+            "Accent": "か￢た",
+            "Vietnamese": "vai",
+            "Unit": "15"
+        },
+        {
+            "Index": "16",
+            "Word": "からだ",
+            "Accent": "からだ￣",
+            "Vietnamese": "cơ thể",
+            "Unit": "15"
+        },
+        {
+            "Index": "17",
+            "Word": "きゅうに（きゅうな）",
+            "Accent": "きゅうに￣（きゅうな￣）",
+            "Vietnamese": "đột nhiên (gấp)",
+            "Unit": "15"
+        },
+        {
+            "Index": "18",
+            "Word": "ぎゅうにゅう",
+            "Accent": "ぎゅうにゅう￣",
+            "Vietnamese": "sữa bò",
+            "Unit": "15"
+        },
+        {
+            "Index": "19",
+            "Word": "くすり",
+            "Accent": "くすり￣",
+            "Vietnamese": "thuốc",
+            "Unit": "15"
+        },
+        {
+            "Index": "20",
+            "Word": "くち",
+            "Kanji": "口",
+            "Accent": "くち￣",
+            "Vietnamese": "miệng",
+            "Unit": "15"
+        },
+        {
+            "Index": "21",
+            "Word": "くび",
+            "Accent": "くび￣",
+            "Vietnamese": "cổ",
+            "Unit": "15"
+        },
+        {
+            "Index": "22",
+            "Word": "けんこう",
+            "Accent": "けんこう￣",
+            "Vietnamese": "sức khỏe",
+            "Unit": "15"
+        },
+        {
+            "Index": "23",
+            "Word": "こうやって",
+            "Accent": "こうやって￢",
+            "Vietnamese": "làm như thế này",
+            "Unit": "15"
+        },
+        {
+            "Index": "24",
+            "Word": "こし",
+            "Accent": "こし￣",
+            "Vietnamese": "eo, hông",
+            "Unit": "15"
+        },
+        {
+            "Index": "25",
+            "Word": "ごはん",
+            "Accent": "ご￢はん",
+            "Vietnamese": "cơm",
+            "Unit": "15"
+        },
+        {
+            "Index": "26",
+            "Word": "こんど",
+            "Accent": "こ￢んど",
+            "Vietnamese": "lần tới",
+            "Unit": "15"
+        },
+        {
+            "Index": "27",
+            "Word": "さいきん",
+            "Accent": "さいきん￣",
+            "Vietnamese": "gần đây",
+            "Unit": "15"
+        },
+        {
+            "Index": "28",
+            "Word": "さいご",
+            "Accent": "さいご",
+            "Vietnamese": "cuối cùng",
+            "Unit": "15"
+        },
+        {
+            "Index": "29",
+            "Word": "しんこきゅう",
+            "Accent": "しんこ￢きゅう",
+            "Vietnamese": "vươn thở, thở sâu",
+            "Unit": "15"
+        },
+        {
+            "Index": "30",
+            "Word": "すいます ",
+            "Accent": "すいま￢す",
+            "Vietnamese": "hút, hít",
+            "Unit": "15"
+        },
+        {
+            "Index": "31",
+            "Word": "ストレス",
+            "Accent": "スト￢レス",
+            "Vietnamese": "căng thẳng, xì trét",
+            "Unit": "15"
+        },
+        {
+            "Index": "32",
+            "Word": "せなか",
+            "Accent": "せなか￣",
+            "Vietnamese": "lưng",
+            "Unit": "15"
+        },
+        {
+            "Index": "33",
+            "Word": "たいそう",
+            "Accent": "たいそう￣",
+            "Vietnamese": "tập thể dục",
+            "Unit": "15"
+        },
+        {
+            "Index": "34",
+            "Word": "たかく（たかい）",
+            "Accent": "た￢かく",
+            "Vietnamese": "cao",
+            "Unit": "15"
+        },
+        {
+            "Index": "35",
+            "Word": "て",
+            "Accent": "て￢",
+            "Vietnamese": "tay",
+            "Unit": "15"
+        },
+        {
+            "Index": "36",
+            "Word": "ねます",
+            "Accent": "ねま￢す",
+            "Vietnamese": "ngủ",
+            "Unit": "15"
+        },
+        {
+            "Index": "37",
+            "Word": "のみます ",
+            "Kanji": "飲みます",
+            "Accent": "のみま￢す",
+            "Vietnamese": "uống",
+            "Unit": "15"
+        },
+        {
+            "Index": "38",
+            "Word": "は",
+            "Accent": "は￢",
+            "Vietnamese": "răng",
+            "Unit": "15"
+        },
+        {
+            "Index": "39",
+            "Word": "はいります",
+            "Accent": "はいりま￢す",
+            "Vietnamese": "được cho vào, có",
+            "Unit": "15"
+        },
+        {
+            "Index": "40",
+            "Word": "はきます",
+            "Accent": "はきま￢す",
+            "Vietnamese": "mặc, xỏ",
+            "Unit": "15"
+        },
+        {
+            "Index": "41",
+            "Word": "はな",
+            "Accent": "はな￢",
+            "Vietnamese": "mũi",
+            "Unit": "15"
+        },
+        {
+            "Index": "42",
+            "Word": "はやく",
+            "Accent": "は￢やく",
+            "Vietnamese": "sớm/ nhanh",
+            "Unit": "15"
+        },
+        {
+            "Index": "43",
+            "Word": "まげます ",
+            "Accent": "まげま￢す",
+            "Vietnamese": "gập, bẻ",
+            "Unit": "15"
+        },
+        {
+            "Index": "44",
+            "Word": "まわします ",
+            "Accent": "まわしま￢す",
+            "Vietnamese": "xoay",
+            "Unit": "15"
+        },
+        {
+            "Index": "45",
+            "Word": "みみ",
+            "Accent": "みみ￢",
+            "Vietnamese": "tai",
+            "Unit": "15"
+        },
+        {
+            "Index": "46",
+            "Word": "むね",
+            "Accent": "むね￢",
+            "Vietnamese": "ngực",
+            "Unit": "15"
+        },
+        {
+            "Index": "47",
+            "Word": "むり",
+            "Accent": "む￢り",
+            "Vietnamese": "làm quá sức",
+            "Unit": "15"
+        },
+        {
+            "Index": "48",
+            "Word": "め",
+            "Accent": "め￢",
+            "Vietnamese": "mắt",
+            "Unit": "15"
+        },
+        {
+            "Index": "49",
+            "Word": "やります ",
+            "Accent": "やりま￢す",
+            "Vietnamese": "làm",
+            "Unit": "15"
+        },
+        {
+            "Index": "50",
+            "Word": "ゆっくり",
+            "Accent": "ゆっく￢り",
+            "Vietnamese": "từ từ, chậm rãi",
+            "Unit": "15"
+        }
+    ],
+    "Bài 16": [
+        {
+            "Index": "1",
+            "Word": "あさごはん",
+            "Accent": "あさご￢はん",
+            "Vietnamese": "bữa sáng",
+            "Unit": "16"
+        },
+        {
+            "Index": "2",
+            "Word": "あなた",
+            "Accent": "あな￢た",
+            "Vietnamese": "bạn (ngôi thứ 2 số ít)",
+            "Unit": "16"
+        },
+        {
+            "Index": "3",
+            "Word": "あるきます",
+            "Accent": "あるきま￢す",
+            "Vietnamese": "đi bộ",
+            "Unit": "16"
+        },
+        {
+            "Index": "4",
+            "Word": "アンケート",
+            "Accent": "ア￢ンケート、\r\nアンケ￢ート",
+            "Vietnamese": "phiếu điều tra",
+            "Unit": "16"
+        },
+        {
+            "Index": "5",
+            "Word": "いえ",
+            "Accent": "いえ￢",
+            "Vietnamese": "ngôi nhà",
+            "Unit": "16"
+        },
+        {
+            "Index": "6",
+            "Word": "ウォーキング",
+            "Accent": "ウォ￢ーキング",
+            "Vietnamese": "đi bộ thể dục",
+            "Unit": "16"
+        },
+        {
+            "Index": "7",
+            "Word": "エアロビクス",
+            "Accent": "エアロビ￢クス",
+            "Vietnamese": "aerobic, thể dục thẩm mỹ",
+            "Unit": "16"
+        },
+        {
+            "Index": "8",
+            "Word": "およぎます ",
+            "Accent": "およぎま￢す",
+            "Vietnamese": "bơi",
+            "Unit": "16"
+        },
+        {
+            "Index": "9",
+            "Word": "キロ／～キロ",
+            "Accent": "～￢キロ",
+            "Vietnamese": "～kilo",
+            "Unit": "16"
+        },
+        {
+            "Index": "10",
+            "Word": "グループ",
+            "Accent": "グル￢ープ",
+            "Vietnamese": "nhóm",
+            "Unit": "16"
+        },
+        {
+            "Index": "11",
+            "Word": "けんこうてき",
+            "Accent": "けんこうてき￣",
+            "Vietnamese": "tốt cho sức khỏe",
+            "Unit": "16"
+        },
+        {
+            "Index": "12",
+            "Word": "こたえ",
+            "Accent": "こた￢え",
+            "Vietnamese": "câu trả lời",
+            "Unit": "16"
+        },
+        {
+            "Index": "13",
+            "Word": "こたえます ",
+            "Accent": "こたえま￢す",
+            "Vietnamese": "trả lời",
+            "Unit": "16"
+        },
+        {
+            "Index": "14",
+            "Word": "しつもん",
+            "Accent": "しつもん￣",
+            "Vietnamese": "câu hỏi",
+            "Unit": "16"
+        },
+        {
+            "Index": "15",
+            "Word": "ジム",
+            "Accent": "ジ￢ム",
+            "Vietnamese": "phòng tập thể hình",
+            "Unit": "16"
+        },
+        {
+            "Index": "16",
+            "Word": "しゅうまつ",
+            "Accent": "しゅうまつ￣",
+            "Vietnamese": "cuối tuần",
+            "Unit": "16"
+        },
+        {
+            "Index": "17",
+            "Word": "ジョギング",
+            "Accent": "ジョギング￣",
+            "Vietnamese": "chạy bộ thể dục",
+            "Unit": "16"
+        },
+        {
+            "Index": "18",
+            "Word": "スポーツ",
+            "Accent": "スポ￢ーツ",
+            "Vietnamese": "thể thao",
+            "Unit": "16"
+        },
+        {
+            "Index": "19",
+            "Word": "たばこ",
+            "Accent": "たばこ￣",
+            "Vietnamese": "thuốc lá",
+            "Unit": "16"
+        },
+        {
+            "Index": "20",
+            "Word": "つぎ",
+            "Accent": "つぎ￢",
+            "Vietnamese": "tiếp theo",
+            "Unit": "16"
+        },
+        {
+            "Index": "21",
+            "Word": "どのぐらい",
+            "Accent": "どのぐらい￣、\r\nど￢のぐらい",
+            "Vietnamese": "bao lâu",
+            "Unit": "16"
+        },
+        {
+            "Index": "22",
+            "Word": "トレーニング",
+            "Accent": "トレ￢ーニング",
+            "Vietnamese": "rèn luyện sức khỏe",
+            "Unit": "16"
+        },
+        {
+            "Index": "23",
+            "Word": "なにか",
+            "Accent": "な￢にか",
+            "Vietnamese": "cái gì đó",
+            "Unit": "16"
+        },
+        {
+            "Index": "24",
+            "Word": "なにも",
+            "Accent": "なにも￣",
+            "Vietnamese": "cái gì cũng không",
+            "Unit": "16"
+        },
+        {
+            "Index": "25",
+            "Word": "はしります ",
+            "Accent": "はしりま￢す",
+            "Vietnamese": "chạy",
+            "Unit": "16"
+        },
+        {
+            "Index": "26",
+            "Word": "プール",
+            "Accent": "プ￢ール",
+            "Vietnamese": "bể bơi",
+            "Unit": "16"
+        },
+        {
+            "Index": "27",
+            "Word": "まいあさ",
+            "Accent": "ま￢いあさ",
+            "Vietnamese": "hàng sáng",
+            "Unit": "16"
+        },
+        {
+            "Index": "28",
+            "Word": "やさい",
+            "Accent": "やさい￣",
+            "Vietnamese": "rau",
+            "Unit": "16"
+        },
+        {
+            "Index": "29",
+            "Word": "ヨガ",
+            "Accent": "ヨ￢ガ",
+            "Vietnamese": "yoga",
+            "Unit": "16"
+        },
+        {
+            "Index": "30",
+            "Word": "リラックス",
+            "Accent": "リラ￢ックス",
+            "Vietnamese": "thư giãn",
+            "Unit": "16"
+        }
+    ],
+    "Bài 17": [
+        {
+            "Index": "1",
+            "Word": "あかちゃん",
+            "Accent": "あ￢かちゃん",
+            "Vietnamese": "em bé",
+            "Unit": "17"
+        },
+        {
+            "Index": "2",
+            "Word": "あそびます ",
+            "Accent": "あそびま￢す",
+            "Vietnamese": "chơi",
+            "Unit": "17"
+        },
+        {
+            "Index": "3",
+            "Word": "いろ",
+            "Accent": "いろ￢",
+            "Vietnamese": "màu sắc",
+            "Unit": "17"
+        },
+        {
+            "Index": "4",
+            "Word": "うまれます ",
+            "Accent": "うまれま￢す",
+            "Vietnamese": "được sinh ra",
+            "Unit": "17"
+        },
+        {
+            "Index": "5",
+            "Word": "おいわい（いわい）",
+            "Accent": "おいわい￣",
+            "Vietnamese": "chúc mừng",
+            "Unit": "17"
+        },
+        {
+            "Index": "6",
+            "Word": "おなじ",
+            "Accent": "おなじ￣",
+            "Vietnamese": "giống",
+            "Unit": "17"
+        },
+        {
+            "Index": "7",
+            "Word": "おもちゃ",
+            "Accent": "おも￢ちゃ",
+            "Vietnamese": "đồ chơi",
+            "Unit": "17"
+        },
+        {
+            "Index": "8",
+            "Word": "かざります ",
+            "Accent": "かざりま￢す",
+            "Vietnamese": "trang trí",
+            "Unit": "17"
+        },
+        {
+            "Index": "9",
+            "Word": "かばん",
+            "Accent": "かばん￣",
+            "Vietnamese": "cặp sách, túi xách",
+            "Unit": "17"
+        },
+        {
+            "Index": "10",
+            "Word": "かれ",
+            "Accent": "か￢れ",
+            "Vietnamese": "anh ấy, người yêu",
+            "Unit": "17"
+        },
+        {
+            "Index": "11",
+            "Word": "き",
+            "Accent": "き￣",
+            "Vietnamese": "cảm giác",
+            "Unit": "17"
+        },
+        {
+            "Index": "12",
+            "Word": "きに いります",
+            "Accent": "きに いりま￢す",
+            "Vietnamese": "hợp sở thích, thích",
+            "Unit": "17"
+        },
+        {
+            "Index": "13",
+            "Word": "きます ",
+            "Accent": "きま￢す",
+            "Vietnamese": "mặc",
+            "Unit": "17"
+        },
+        {
+            "Index": "14",
+            "Word": "クリスマス",
+            "Accent": "クリス￢マス",
+            "Vietnamese": "Giáng sinh",
+            "Unit": "17"
+        },
+        {
+            "Index": "15",
+            "Word": "けっこん",
+            "Accent": "けっこん￣",
+            "Vietnamese": "kết hôn",
+            "Unit": "17"
+        },
+        {
+            "Index": "16",
+            "Word": "コーヒーカップ",
+            "Accent": "コーヒーカ￢ップ",
+            "Vietnamese": "tách cà phê",
+            "Unit": "17"
+        },
+        {
+            "Index": "17",
+            "Word": "シャツ",
+            "Accent": "シャ￢ツ",
+            "Vietnamese": "áo sơ mi",
+            "Unit": "17"
+        },
+        {
+            "Index": "18",
+            "Word": "しゅうしょく",
+            "Accent": "しゅうしょく￣",
+            "Vietnamese": "tìm việc",
+            "Unit": "17"
+        },
+        {
+            "Index": "19",
+            "Word": "しゅっさん",
+            "Accent": "しゅっさん￣",
+            "Vietnamese": "sinh con",
+            "Unit": "17"
+        },
+        {
+            "Index": "20",
+            "Word": "じょうず",
+            "Accent": "じょうず￢",
+            "Vietnamese": "giỏi",
+            "Unit": "17"
+        },
+        {
+            "Index": "21",
+            "Word": "すてき",
+            "Accent": "すてき￣",
+            "Vietnamese": "xinh đẹp, tuyệt vời",
+            "Unit": "17"
+        },
+        {
+            "Index": "22",
+            "Word": "セーター",
+            "Accent": "セ￢ーター",
+            "Vietnamese": "áo len",
+            "Unit": "17"
+        },
+        {
+            "Index": "23",
+            "Word": "そつぎょう",
+            "Accent": "そつぎょう￣",
+            "Vietnamese": "tốt nghiệp",
+            "Unit": "17"
+        },
+        {
+            "Index": "24",
+            "Word": "たとえば",
+            "Accent": "たと￢えば",
+            "Vietnamese": "ví dụ",
+            "Unit": "17"
+        },
+        {
+            "Index": "25",
+            "Word": "たんじょうび",
+            "Kanji": "たんじょう日",
+            "Accent": "たんじょ￢うび",
+            "Vietnamese": "sinh nhật",
+            "Unit": "17"
+        },
+        {
+            "Index": "26",
+            "Word": "とけい",
+            "Accent": "とけい￣",
+            "Vietnamese": "đồng hồ",
+            "Unit": "17"
+        },
+        {
+            "Index": "27",
+            "Word": "にあいます ",
+            "Accent": "にあいま￢す",
+            "Vietnamese": "hợp với ~",
+            "Unit": "17"
+        },
+        {
+            "Index": "28",
+            "Word": "にゅうがく",
+            "Accent": "にゅうがく￣",
+            "Vietnamese": "nhập học",
+            "Unit": "17"
+        },
+        {
+            "Index": "29",
+            "Word": "ネクタイ",
+            "Accent": "ネ￢クタイ",
+            "Vietnamese": "cà vạt",
+            "Unit": "17"
+        },
+        {
+            "Index": "30",
+            "Word": "ネックレス",
+            "Accent": "ネ￢ックレス",
+            "Vietnamese": "vòng cổ",
+            "Unit": "17"
+        },
+        {
+            "Index": "31",
+            "Word": "バレンタイン・デー",
+            "Accent": "バレンタイ￢ン・デー",
+            "Vietnamese": "lễ tình nhân",
+            "Unit": "17"
+        },
+        {
+            "Index": "32",
+            "Word": "ひ",
+            "Kanji": "日",
+            "Accent": "ひ￢／ひ￣",
+            "Vietnamese": "ngày",
+            "Unit": "17"
+        },
+        {
+            "Index": "33",
+            "Word": "ふふふ",
+            "Accent": "―――",
+            "Vietnamese": "(tiếng cười, chủ yếu của phụ nữ)",
+            "Unit": "17"
+        },
+        {
+            "Index": "34",
+            "Word": "プレゼント",
+            "Accent": "プレ￢ゼント",
+            "Vietnamese": "quà tặng",
+            "Unit": "17"
+        },
+        {
+            "Index": "35",
+            "Word": "へや",
+            "Accent": "へや￢",
+            "Vietnamese": "phòng",
+            "Unit": "17"
+        },
+        {
+            "Index": "36",
+            "Word": "ボーイフレンド",
+            "Accent": "ボーイフレ￢ンド",
+            "Vietnamese": "bạn trai, người yêu",
+            "Unit": "17"
+        },
+        {
+            "Index": "37",
+            "Word": "まあ",
+            "Accent": "ま￢あ",
+            "Vietnamese": "Ừ thì",
+            "Unit": "17"
+        },
+        {
+            "Index": "38",
+            "Word": "やさしい",
+            "Accent": "やさしい￣、やさし￢い",
+            "Vietnamese": "dễ",
+            "Unit": "17"
+        }
+    ],
+    "Bài 18": [
+        {
+            "Index": "1",
+            "Word": "あけます ",
+            "Accent": "あけま￢す",
+            "Vietnamese": "mở ra",
+            "Unit": "18"
+        },
+        {
+            "Index": "2",
+            "Word": "いつまでも",
+            "Accent": "い￢つまでも",
+            "Vietnamese": "mãi mãi về sau",
+            "Unit": "18"
+        },
+        {
+            "Index": "3",
+            "Word": "うれしい",
+            "Accent": "うれし￢い",
+            "Vietnamese": "vui sướng",
+            "Unit": "18"
+        },
+        {
+            "Index": "4",
+            "Word": "おめでとう",
+            "Accent": "おめでとう￣",
+            "Vietnamese": "Chúc mừng!",
+            "Unit": "18"
+        },
+        {
+            "Index": "5",
+            "Word": "おもいます ",
+            "Accent": "おもいま￢す",
+            "Vietnamese": "nghĩ",
+            "Unit": "18"
+        },
+        {
+            "Index": "6",
+            "Word": "カード",
+            "Accent": "カ￢ード",
+            "Vietnamese": "thiệp",
+            "Unit": "18"
+        },
+        {
+            "Index": "7",
+            "Word": "かてい",
+            "Accent": "かてい￣",
+            "Vietnamese": "gia đình",
+            "Unit": "18"
+        },
+        {
+            "Index": "8",
+            "Word": "きっと",
+            "Accent": "きっと￣",
+            "Vietnamese": "chắc là, chắc chắn là",
+            "Unit": "18"
+        },
+        {
+            "Index": "9",
+            "Word": "クラス",
+            "Accent": "ク￢ラス",
+            "Vietnamese": "lớp học",
+            "Unit": "18"
+        },
+        {
+            "Index": "10",
+            "Word": "ごけっこん（けっこん）",
+            "Accent": "ごけっこん￣",
+            "Vietnamese": "kết hôn",
+            "Unit": "18"
+        },
+        {
+            "Index": "11",
+            "Word": "これからも",
+            "Accent": "これからも￢",
+            "Vietnamese": "từ nay cũng",
+            "Unit": "18"
+        },
+        {
+            "Index": "12",
+            "Word": "しあわせ",
+            "Accent": "しあわせ￣",
+            "Vietnamese": "hạnh phúc",
+            "Unit": "18"
+        },
+        {
+            "Index": "13",
+            "Word": "たいせつ",
+            "Accent": "たいせつ￣",
+            "Vietnamese": "quan trọng",
+            "Unit": "18"
+        },
+        {
+            "Index": "14",
+            "Word": "たいせつに します",
+            "Accent": "たいせつに しま￢す",
+            "Vietnamese": "coi trọng, trân trọng",
+            "Unit": "18"
+        },
+        {
+            "Index": "15",
+            "Word": "パーティー",
+            "Accent": "パ￢ーティー",
+            "Vietnamese": "bữa tiệc",
+            "Unit": "18"
+        },
+        {
+            "Index": "16",
+            "Word": "ひっこし",
+            "Accent": "ひっこし￣",
+            "Vietnamese": "chuyển nhà",
+            "Unit": "18"
+        },
+        {
+            "Index": "17",
+            "Word": "ひつよう",
+            "Accent": "ひつよう￣",
+            "Vietnamese": "cần thiết",
+            "Unit": "18"
+        },
+        {
+            "Index": "18",
+            "Word": "みんな",
+            "Accent": "みんな￢",
+            "Vietnamese": "tất cả, mọi người",
+            "Unit": "18"
+        },
+        {
+            "Index": "19",
+            "Word": "よろこびます ",
+            "Accent": "よろこびま￢す",
+            "Vietnamese": "vui sướng, hạnh phúc",
+            "Unit": "18"
+        }
+    ]
+}
